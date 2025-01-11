@@ -1,0 +1,1815 @@
+[
+    {
+        "title": "Authentische Bolognese",
+        "recipeDescription": "Hackfleisch in einer großen Pfanne bei hoher Hitze anbraten, bis es rundum gebräunt ist. Danach Zwiebeln und gehacktes Gemüse wie Karotten, Sellerie und Knoblauch hinzufügen und alles zusammen weiterbraten, bis das Gemüse weich wird. Anschließend mit einem Schuss Rotwein ablöschen und kurz köcheln lassen, bis der Wein etwas reduziert ist. Geschälte Tomaten hinzufügen, mit Salz, Pfeffer und Kräutern wie Oregano oder Basilikum würzen und alles bei niedriger Hitze für mindestens 30-45 Minuten köcheln lassen, bis sich die Aromen entfaltet haben und die Sauce schön sämig ist. Vor dem Servieren die Sauce mit frisch gekochter Pasta mischen und mit Parmesan bestreuen.",
+        "imageName": "bolognese.jpg",
+        "ingredients": [
+            { "name": "Butter" },
+            { "name": "Olivenöl" },
+            { "name": "Basilikum" },
+            { "name": "Zwiebeln" },
+            { "name": "Möhre" },
+            { "name": "Sellerie" },
+            { "name": "Knoblauch" },
+            { "name": "Hackfleisch" },
+            { "name": "Rotwein" },
+            { "name": "Geschälte Tomaten" },
+            { "name": "Linguine" },
+            { "name": "Parmesans" }
+        ],
+        "tags": [
+            { "name": "Italienisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Pizza",
+        "recipeDescription": "Teig in der Maschine machen. Dann 2 Stunden gehen lassen. Menge ist für 6 Personen.",
+        "imageName": "pizza.jpg",
+        "ingredients": [
+            { "name": "600g Mehl" },
+            { "name": "300ml Wasser" },
+            { "name": "Olivenöl" },
+            { "name": "Hefe" },
+            { "name": "Salz" },
+            { "name": "Zucker" },
+            { "name": "Tomatensauce" },
+            { "name": "Mozzarella" },
+            { "name": "Parmesan" }
+        ],
+        "tags": [
+            { "name": "Italienisch" }
+        ]
+    },
+    
+    {
+        "title": "Pilz-Ragout",
+        "recipeDescription": "Zuerst die Trockenpilze einweichen. Dazu die Pilze in einer Schüssel mit 250 ml kochendem Wasser übergießen und 20 Minuten stehen lassen. Nach dem Einweichen sorgfältig abgießen, dabei die Flüssigkeit auffangen, dann die Pilze in kleine Stücke schneiden. Inzwischen die Walnusskerne fein hacken, sodass sie aussehen wie größere Brotkrumen. In eine große, tiefe Pfanne geben und bei mittlerer Hitze etwa 5 Minuten goldbraun rösten, dabei gelegentlich umrühren. Danach vom Herd nehmen und in eine Schüssel geben. Die Pfanne zurück auf den Herd stellen. Die Zwiebeln, den Knoblauch und den Sellerie mit etwas Olivenöl und einer Prise Salz in die Pfanne geben. Alles 5–10 Minuten darin anbraten, bis es weich ist. Nun die frischen Pilze mit den Paprikawürfeln sowie Thymian, Oregano und Rosmarin in die Pfanne geben und etwa 5 Minuten weich garen. Die Dosentomaten, das Tomatenmark, das Tamari und die getrockneten Pilze samt Einweichwasser dazugeben. Alles 10–15 Minuten köcheln lassen, damit das Ragout eindickt und überschüssige Flüssigkeit verkocht. Die Walnüsse und die Nährhefe unterrühren und die Sauce noch weitere 5 Minuten köcheln lassen. Während das Ragout gart, die Pasta in einem Topf mit kochendem Salzwasser nach Packungsanweisung zubereiten. Anschließend gut abgießen und unter das fertige Ragout rühren. Vor dem Servieren mit der gehackten Petersilie bestreuen.",
+        "imageName": "pilz-ragout.jpg",
+        "ingredients": [
+            { "name": "1 Dose stückige Tomaten" },
+            { "name": "400 g Champignons" },
+            { "name": "100 g Walnusskerne" },
+            { "name": "20 g Steinpilze, getrocknet" },
+            { "name": "Pasta" },
+            { "name": "2 Selleriestangen" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "1 Zwiebel" },
+            { "name": "1 Handvoll frische Petersilie" },
+            { "name": "2 EL Tamari" },
+            { "name": "1 EL Tomatenmark" },
+            { "name": "1 TL Thymian, getrocknet" },
+            { "name": "1 TL Oregano, getrocknet" },
+            { "name": "1 TL Rosmarin" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "Olivenöl" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" }
+        ]
+    
+    },
+    
+    {
+        "title": "Pasta mit getrockneten Tomaten und Spinat",
+        "recipeDescription": "Nudeln nach Packungsangabe zubereiten. Zwiebel und Knoblauch klein schneiden. Zwiebeln und Knoblauch in die Pfanne geben und 2 Minuten braten. Sahne und Brühe zugeben. Einmal aufkochen, dann Parmesan, getrocknete Tomaten und Babyspinat unterheben. Die Sauce für 5 Minuten bei mittlerer Hitze köcheln lassen, dabei mit Salz, Pfeffer und italienischen Kräutern würzen. Nudeln unterheben.",
+        "imageName": "Pasta_Spinat-Sahne-Sauce.jpg",
+        "ingredients": [
+            { "name": "300 g Nudeln" },
+            { "name": "1 Zwiebel" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "1 EL Olivenöl" },
+            { "name": "100 g getrocknete Tomaten (aus dem Glas)" },
+            { "name": "250 g Sahne zum Kochen" },
+            { "name": "200 ml Gemüsebrühe" },
+            { "name": "60 g geriebener Parmesan" },
+            { "name": "100 g Babyspinat" },
+            { "name": "Salz und Pfeffer" },
+            { "name": "1 TL italienische Kräuter" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Penne Arrabiata",
+        "recipeDescription": "Penne in einem Topf mit Salzwasser bissfest kochen, danach abgießen und gut abtropfen lassen. In der Zwischenzeit den Knoblauch schälen und fein hacken. Basilikum waschen, abtropfen lassen und auch fein hacken. Chilischoten waschen, entkernen und klein schneiden. Knoblauch und Chili in einer Pfanne mit Öl gut andünsten. Dann die Tomaten zugeben und 15 Minuten köcheln lassen. Danach bisschen Nudelwasser und die Nudeln, Basilikum und Oregano zugeben. Zum Schluss mit Salz und Pfeffer abschmecken.",
+        "imageName": "penne_arrabiata.jpg",
+        "ingredients": [
+            { "name": "400 g Penne" },
+            { "name": "1 Dose Tomaten" },
+            { "name": "2 EL Olivenöl" },
+            { "name": "4 Knoblauchzehen" },
+            { "name": "1 Bund Basilikum" },
+            { "name": "3 rote Chilischoten" },
+            { "name": "1 Prise Pfeffer" },
+            { "name": "1 Prise Salz" },
+            { "name": "1 Zweig Oregano" },
+            { "name": "Parmesan" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Italienisch" },
+            { "name": "Scharf" }
+        ]
+    },
+    
+    {
+        "title": "Pasta mit Mozzarella-Tomatensauce",
+        "recipeDescription": "Zuerst die Nudeln in einem Topf mit Salzwasser bissfest kochen. In der Zwischenzeit für die Tomatensauce Zwiebel und Knoblauch schälen, klein hacken und in einer Pfanne mit Öl gut andünsten. Danach die Tomaten waschen, entkernen, in sehr kleine Würfel schneiden und ebenfalls in die Pfanne geben – kurz mitdünsten. Anschließend mit einem Schuss Weißwein ablöschen, die passierten Tomaten hinzugießen, mit Salz, Pfeffer, Zucker, Olivenöl und Oregano abschmecken und ein wenig köcheln lassen. Zum Schluss den Mozzarella-Käse klein schneiden, mit den Nudeln, frischen Basilikumblättern und der Tomatensauce gut vermischen und servieren.",
+        "imageName": "mozzarella-tomatensauce.jpg",
+        "ingredients": [
+            { "name": "350 g Nudeln" },
+            { "name": "Bund frischer Basilikum" },
+            { "name": "250 g Mozzarella" },
+            { "name": "3 EL Olivenöl" },
+            { "name": "2 TL Zucker" },
+            { "name": "1 TL getrockneter Oregano" },
+            { "name": "1 Schuss Weißwein" },
+            { "name": "1 Prise Salz" },
+            { "name": "1 Prise Pfeffer" },
+            { "name": "1 EL Öl für die Pfanne" },
+            { "name": "500 g passierte Tomaten" },
+            { "name": "250 g Kirschtomaten" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Italienisch" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Baked Feta Pasta",
+        "recipeDescription": "Den Ofen auf 200 °C Ober-/Unterhitze vorheizen. Nun Tomaten, Knoblauch, je die Hälfte der Petersilie und des Thymians in eine große Auflaufform geben und gut mischen. Danach den Feta in der Mitte der Form platzieren. Den Rest des Thymians auf den Feta geben. Mit Salz und Pfeffer würzen und mit Olivenöl beträufeln. Das Ganze dann für ca. 30 Min. im Ofen backen. In der Zwischenzeit die Nudeln nach Packungsangabe al dente kochen. Die Auflaufform aus dem Ofen holen und den cremigen Feta mit den Tomaten vermischen. Die Nudeln abgießen, zur Soße geben und vermengen. Die Baked Feta Pasta auf Teller verteilen und mit der restlichen Petersilie garniert heiß servieren.",
+        "imageName": "feta-pasta.jpg",
+        "ingredients": [
+            { "name": "300 g Feta" },
+            { "name": "700 g Cocktailtomaten" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "1 EL Olivenöl" },
+            { "name": "0.5 Bund Petersilie" },
+            { "name": "1 TL getrockneter Thymian" },
+            { "name": "500 g Pasta" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Pasta mit cremiger Paprikasauce",
+        "recipeDescription": "Den Backofen auf 220 °C Ober-/ Unterhitze vorheizen. Zwiebel und Knoblauch schälen; Zwiebeln vierteln, Knoblauch ganz lassen. Paprika halbieren, entkernen, waschen und in Streifen schneiden. Paprika, Zwiebel und Knoblauch auf ein Backblech legen, mit Öl beträufeln und etwa 20 Minuten rösten. Währenddessen Nudeln al dente kochen, dann abgießen. Geröstetes Gemüse mit Tomatenmark, Salz und etwas scharfem Paprikapulver, Pfeffer oder Chili in einen Mixer geben und cremig pürieren. Paprikasoße in einem Topf kurz aufkochen, abschmecken und nach Belieben verdünnen. Nudeln zur Soße geben und vermengen.",
+        "imageName": "paprikasauce.jpg",
+        "ingredients": [
+            { "name": "250 g Nudeln nach Wahl" },
+            { "name": "1 Zwiebel" },
+            { "name": "3-4 Knoblauchzehen" },
+            { "name": "2 rote Paprika" },
+            { "name": "1 EL Öl" },
+            { "name": "2 EL Tomatenmark" },
+            { "name": "3-4 EL Parmesan" },
+            { "name": "⅔ TL Salz" },
+            { "name": "Scharfes Paprikapulver, Pfeffer oder Chili nach Geschmack" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Cremige Champignon-Pasta",
+        "recipeDescription": "Nudeln in Salzwasser nach Packungsanweisung al dente kochen und abgießen. In einer Pfanne 1 EL Öl erhitzen und die Zwiebeln ca. 3 Minuten anbraten. Restliches Öl, Knoblauch und Champignons dazugeben und 5-7 Minuten braten, bis die Champignons gebräunt sind. Mit Weißwein ablöschen (optional) und kurz verdampfen lassen. Gemüsebrühe, Sahne und Mehl verrühren und in die Pfanne gießen. Die Sauce 5-10 Minuten köcheln lassen, bis die gewünschte Konsistenz erreicht ist, und mit Paprikapulver, Salz und Pfeffer abschmecken. Nudeln unterheben und mit Parmesan und frischen Kräutern servieren.",
+        "imageName": "pilzsahne.jpg",
+        "ingredients": [
+            { "name": "300 g Pasta" },
+            { "name": "2 EL Rapsöl oder Olivenöl" },
+            { "name": "1 Zwiebel, gehackt" },
+            { "name": "4 Knoblauchzehen, gehackt" },
+            { "name": "500 g Champignons, in Scheiben geschnitten" },
+            { "name": "80 ml trockener Weißwein (optional)" },
+            { "name": "360 ml Gemüsebrühe" },
+            { "name": "3 EL Mehl" },
+            { "name": "Salz und Pfeffer nach Geschmack" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Pasta mit Zucchini-Ricotta-Creme",
+        "recipeDescription": "Nudeln in gesalzenem Wasser nach Packungsanweisung kochen. In der Zwischenzeit die Zucchini in Würfel schneiden und den Basilikum grob hacken. Olivenöl mit fein gehacktem Knoblauch in einer Pfanne erhitzen, dann Zucchini und Basilikum hinzufügen. Mit Salz würzen und abgedeckt bei kleiner Hitze 15-20 Minuten dünsten, gelegentlich umrühren. Falls die Zucchini kleben, etwas warmes Wasser hinzufügen. Anschließend die Zucchini zerdrücken. In einer großen Schüssel Ricotta cremig rühren, Parmesan, Pecorino und Muskatnuss untermischen. Zucchini und 3-4 EL Nudelwasser dazugeben und alles vermengen. Die tropfnassen Nudeln zur Creme geben und gut vermischen. Mit Salz und Pfeffer abschmecken und servieren.",
+        "imageName": "zucchini_ricotta_pasta.jpg",
+        "ingredients": [
+            { "name": "400 g Fusilli oder eine andere kurze Nudelsorte" },
+            { "name": "400 g Zucchini" },
+            { "name": "100 g Ricotta" },
+            { "name": "25 g Pecorino" },
+            { "name": "25 g Parmesan" },
+            { "name": "1/2 TL Muskatnuss" },
+            { "name": "4 EL Olivenöl" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "10 Basilikumblätter" },
+            { "name": "Salz" },
+            { "name": "Schwarzer Pfeffer aus der Mühle" },
+            { "name": "Zitrone" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Zitronenpasta mit Zoodles",
+        "recipeDescription": "Cashews in heißem Wasser einweichen. Spaghetti in gesalzenem Wasser al dente kochen. Inzwischen Knoblauch fein hacken, Zucchini durch den Spiralschneider drehen und Zoodles ggf. kürzen. Zitronenschale reiben und Saft auspressen, beides zusammen mit Cashews, Salz, Pfeffer, Basilikum, Hefeflocken und Bohnen cremig mixen. Olivenöl in einer Pfanne erhitzen, Chili und Knoblauch kurz anbraten, Zoodles hinzufügen und nur kurz anbraten, dann Spaghetti und Zitronen-Cashew-Mix hinzufügen und alles vermengen. Mit Zitronenzeste und Basilikum garnieren und servieren.",
+        "imageName": "lemon_zoodles_pasta.jpg",
+        "ingredients": [
+            { "name": "3 EL Cashews" },
+            { "name": "200 ml Wasser" },
+            { "name": "250 g Spaghetti" },
+            { "name": "2 EL und 1/2 TL Salz" },
+            { "name": "4 Knoblauchzehen" },
+            { "name": "2 Zucchini" },
+            { "name": "1 unbehandelte Bio-Zitrone" },
+            { "name": "Schwarzer Pfeffer" },
+            { "name": "ca. 30 Blätter Basilikum" },
+            { "name": "2 EL Hefeflocken" },
+            { "name": "ca. 200 g gekochte weiße Bohnen" },
+            { "name": "3 EL Olivenöl" },
+            { "name": "Getrocknete Chili (optional)" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Vegetarisch" }
+
+        ]
+    },
+    
+    {
+        "title": "Pasta mit Tomatensauce, Oliven und Kapern",
+        "recipeDescription": "Nudelwasser erhitzen und Pasta nach Packungsanweisung al dente kochen. Schalotten und Knoblauchzehen schälen und klein schneiden und in einer Pfanne mit etwas Olivenöl anbraten. Tomatenmark in die Pfanne geben und mit anbraten. Anschließend alles mit etwas Wasser ablöschen. In der Zwischenzeit die Oliven und Kapern klein schneiden. Zusammen mit gehackten Basilikumblättern in die Tomatensauce geben und die Sauce ca. 5 Minuten köcheln lassen. Mit Salz und Pfeffer abschmecken. Die Pasta abgießen und zusammen mit der Sauce vermengen. Mit frischen Basilikumblättern anrichten und servieren.",
+        "imageName": "pasta_tomatensauce_oliven_kapern.jpg",
+        "ingredients": [
+            { "name": "500 g Pasta" },
+            { "name": "4 Schalotten" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "60 g grüne Oliven" },
+            { "name": "2 EL Kapern" },
+            { "name": "200 g Tomatenmark" },
+            { "name": "160 ml Wasser" },
+            { "name": "3 Stängel Basilikum" },
+            { "name": "Pfeffer" },
+            { "name": "1 TL Salz" },
+            { "name": "1 EL Olivenöl" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Pasta mit Thunfisch, Zitrone und Kapern",
+        "recipeDescription": "Zwiebel fein hacken. Thunfisch abtropfen lassen und in Stückchen zerbröseln. Zitrone heiß waschen, abtrocknen, Schale abreiben und dann auspressen. Kapern abspülen. Petersilie fein hacken. Tomaten häuten und würfeln. Die Spaghetti im Salzwasser nach Anleitung kochen. Butter erhitzen und die Zwiebel mit der Zitronenschale anbraten. Den Thunfisch mit den Kapern zugeben und kurz mitbraten. Zitronensaft hineingießen und gewürfelte Tomaten hinzufügen, etwas verdampfen lassen. Die Sahne, Salz, Pfeffer und Petersilie unterrühren und vom Herd nehmen. Bissfeste Pasta abgießen, mit der Soße servieren und nach Belieben garnieren.",
+        "imageName": "pasta_tuna_lemon_capers.jpg",
+        "ingredients": [
+            { "name": "2 kleine Zwiebeln" },
+            { "name": "1 Dose Thunfisch, im eigenen Saft" },
+            { "name": "1 Zitrone, Schale und Saft" },
+            { "name": "2 EL Kapern" },
+            { "name": "½ Bund Petersilie" },
+            { "name": "50 g Butter" },
+            { "name": "¼ Becher Sahne" },
+            { "name": "Salz und Pfeffer" },
+            { "name": "200 g Spaghetti" },
+            { "name": "2 Tomaten" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Fisch" }
+        ]
+    },
+    
+    {
+        "title": "Pasta mit Thunfisch-Tomaten-Sauce",
+        "recipeDescription": "Pasta kochen. Für die Thunfisch-Tomaten-Sauce zuerst Zwiebel und Knoblauch schälen und fein hacken. Danach Knoblauch und Zwiebel in einer Pfanne mit Öl anrösten. Die passierten Tomaten sowie den Thunfisch hinzufügen. Alles aufkochen lassen und mit Salz, Pfeffer, Tomatenmark, Oregano und einem Schuss Olivenöl abschmecken.",
+        "imageName": "pasta_tuna_tomato_sauce.jpg",
+        "ingredients": [
+            { "name": "2 Dosen Thunfisch" },
+            { "name": "1 Dose passierte Tomaten" },
+            { "name": "1 Zwiebel" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "2 EL Öl" },
+            { "name": "1 Prise Pfeffer" },
+            { "name": "1 Prise Salz" },
+            { "name": "1 TL Tomatenmark" },
+            { "name": "1 Prise Oregano, getrocknet" },
+            { "name": "1 Schuss Olivenöl" },
+            { "name": "Pasta" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Fisch" }
+        ]
+    },
+    
+    {
+        "title": "Spaghetti Cacio e Pepe",
+        "recipeDescription": "Wasser aufsetzen und salzen. 2,5 Liter Wasser. Eine große Pfanne erhitzen. Den Pfeffer entweder im Mörser zerstoßen oder in der Mühle mahlen und in die Pfanne geben. Den Pfeffer in der Pfanne rösten, aber nicht anbrennen lassen. Sobald der Pfeffer ausreichend geröstet ist, eine Tasse Pastawasser in die Pfanne geben, damit der Pfeffer nicht mehr verbrennt und das Wasser den Geschmack aufnimmt. Den Pecorino fein reiben und in ein Schälchen geben. Einige Esslöffel heißes Pastawasser in das Schälchen geben und den Pecorino zu einer feinen Creme verrühren. Bei der Wassermenge vorsichtig sein, damit eine Creme entsteht. Sobald die Pasta noch 3 Minuten auf der Uhr hat, noch eine Schöpfkelle Pastawasser in die Pfanne geben und die Spaghetti mit einer Spaghettizange vom Topf in die Pfanne heben. Die Pasta sollte in der Pfanne die verbliebenen 3 Minuten bei minimaler Flüssigkeit wie ein Risotto weiterkochen, damit die Aromen die Pasta durchziehen. Den angerührten Pecorino hinzugeben. Mit der Stärke aus den Spaghetti, dem Pastawasser und dem Pecorino entsteht eine Sauce. Immer gerade genug Wasser hinzufügen, dass die Pasta fertigkochen kann und die Konsistenz der Sauce perfekt ist. Viel Rühren bzw. Schwenken hilft, die Konsistenz der Sauce zu optimieren.",
+        "imageName": "spaghetti_cacio_e_pepe.jpg",
+        "ingredients": [
+            { "name": "300 g Spaghetti" },
+            { "name": "200 g Pecorino Romano" },
+            { "name": "1 TL schwarzer Pfeffer" },
+            { "name": "2 ½ Liter Wasser" },
+            { "name": "Salz" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Italienisch" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Linguine alla Carbonara",
+        "recipeDescription": "Den Speck oder Schinken nicht zu fein würfeln und in Olivenöl anschwitzen, dann beiseitestellen. Die Pasta in reichlich Salzwasser al dente kochen – auf keinen Fall zu weich, da die Pasta später noch etwas nachkocht. Gegen Ende der Kochzeit etwas Kochwasser (1-2 Espressotassen) auffangen. Währenddessen die Eier mit den beiden Käsesorten verquirlen, leicht salzen und schwarzen Pfeffer nach Geschmack hinzufügen. Den Speck erneut erhitzen, das aufgefangene Kochwasser hinzufügen und aufkochen lassen. Die Pasta dazugeben und verrühren. Die Eier-Käse-Mischung hinzufügen, leicht stocken lassen und gut rühren, sodass die Mischung die Pasta zart umhüllt.",
+        "imageName": "carbonara.jpg",
+        "ingredients": [
+            { "name": "240 g lange, dünne Pasta" },
+            { "name": "100 g Pancetta, Guanciale oder roher italienischer Schinken" },
+            { "name": "2 Eier" },
+            { "name": "40 g Parmesan oder Grana Padano, frisch gerieben" },
+            { "name": "40 g Pecorino Romano, frisch gerieben" },
+            { "name": "Olivenöl" },
+            { "name": "Salz und schwarzer Pfeffer aus der Mühle" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Italienisch" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Lasagne",
+        "recipeDescription": "Ragú Bolognese: Olivenöl in einem Topf erhitzen, Hackfleisch darin rundherum anbraten, dann gehackte Zwiebeln und Petersilie hinzufügen. Knoblauch in feinen Scheiben und Tomatenmark dazugeben und mitbraten. Mit den Dosentomaten aufgießen, salzen und pfeffern. Nach Belieben Rotwein hinzufügen und das Ragú mindestens eine halbe Stunde bei geöffnetem Topf einkochen lassen. Béchamelsauce: Butter in einem kleinen Topf schmelzen, Mehl mit einem Schneebesen unterrühren und hellgelb anschwitzen. Milch dazugießen und die Sauce glatt rühren. Falls Klümpchen entstehen, die Sauce durch ein Sieb passieren. Die Sauce auf kleiner Flamme etwa eine halbe Stunde köcheln lassen und mit Salz, Pfeffer, Zitronensaft und Muskat abschmecken. Lasagne zubereiten: In einer gebutterten, feuerfesten Form etwas Ragú Bolognese verteilen, eine Schicht Lasagneplatten darauflegen und diese mit Ragú und einer Schicht Béchamel bedecken. Schichtweise fortfahren, die letzte Schicht sollte Béchamel sein. Dick mit geriebenem Käse bestreuen und Butterflöckchen daraufsetzen. Die Lasagne im heißen Backofen bei 180 °C Umluft ca. 30-40 Minuten backen, bis die Kruste goldbraun ist.",
+        "imageName": "lasagna.jpg",
+        "ingredients": [
+            { "name": "Olivenöl" },
+            { "name": "500 g gemischtes Hackfleisch" },
+            { "name": "1 Zwiebel" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "1 Bund Petersilie (oder TK)" },
+            { "name": "1 EL Tomatenmark" },
+            { "name": "1 Dose geschälte Tomaten (800 g)" },
+            { "name": "etwas Rotwein" },
+            { "name": "½ Liter Milch" },
+            { "name": "30 g Butter" },
+            { "name": "40 g Mehl" },
+            { "name": "Salz und Pfeffer" },
+            { "name": "Zitronensaft" },
+            { "name": "Muskatnuss" },
+            { "name": "Butter für die Form" },
+            { "name": "300 g Lasagneplatten" },
+            { "name": "nach Belieben geriebener Käse" },
+            { "name": "Butterflöckchen" }
+        ],
+        "tags": [
+            { "name": "Auflauf" },
+            { "name": "Italienisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Gemüse-Nudelauflauf",
+        "recipeDescription": "Zwiebeln, Möhren, Zucchini und Paprika in kleine Würfel schneiden. Die Fusilli im Salzwasser nach Packungsanweisung al dente kochen, abgießen und im Topf lassen. Zwiebeln in einer hohen Pfanne glasig dünsten. Den Knoblauch pressen und mit dem restlichen Gemüse in die Pfanne geben. Tomatenmark, Paprikapulver, Basilikum und Oregano dazugeben, kurz anbraten und mit der Gemüsebrühe ablöschen. Auf kleiner Flamme ca. 15 Minuten köcheln lassen. Die passierten Tomaten zugeben und mit Salz und Pfeffer abschmecken. Noch einmal aufkochen lassen und anschließend zu den Nudeln geben. Die Mischung in eine Auflaufform geben, mit geriebenem Gouda bestreuen und je nach gewünschtem Bräunungsgrad 20-30 Minuten bei 220 °C überbacken.",
+        "imageName": "vegetable_pasta_bake.jpg",
+        "ingredients": [
+            { "name": "2 Zwiebeln" },
+            { "name": "2 Möhren" },
+            { "name": "1 Zucchini" },
+            { "name": "1 Paprika" },
+            { "name": "1 Knoblauchzehe" },
+            { "name": "100 ml Gemüsebrühe" },
+            { "name": "500 ml passierte Tomaten" },
+            { "name": "3 EL Tomatenmark" },
+            { "name": "2 TL Paprikapulver" },
+            { "name": "etwas Basilikum (frisch oder getrocknet)" },
+            { "name": "etwas Oregano" },
+            { "name": "Salz und Pfeffer" },
+            { "name": "500 g Fusilli" },
+            { "name": "Olivenöl" },
+            { "name": "200 g geraspelter Gouda" }
+        ],
+        "tags": [
+            { "name": "Auflauf" },
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Tortellini mit Spinat-Käse-Füllung",
+        "recipeDescription": "Für den Nudelteig Mehl, Eigelb, Salz, 1 Ei und Olivenöl zu einem geschmeidigen Teig verkneten und 1/2 Stunde zugedeckt ruhen lassen. Für die Füllung den Spinat blanchieren, ausdrücken und fein hacken. Den Ricotta durch ein Sieb streichen und mit Spinat und 50 g geriebenem Parmesan vermischen. Mit Salz, Pfeffer und Muskatnuss würzen. Den Nudelteig dünn ausrollen und 8 Teigscheiben von etwa 10 cm Durchmesser ausstechen. Die Spinat-Käse-Füllung auf die Teigscheiben setzen und in die Mitte eine Vertiefung drücken. Die Eier trennen und jeweils ein Eigelb in jede Mulde geben. Die Teigscheiben am Rand mit Eiweiß bestreichen, die Nudelplatte zu einem Dreieck formen und die Ränder fest andrücken. Den bauchigeren Teil nach oben auf die Spitze des Dreiecks klappen und die Enden um die Finger wickeln, etwas anfeuchten und verbinden. Die Tortellini in Salzwasser 3-5 Minuten kochen, abtropfen, mit Parmesan bestreuen und mit flüssiger Butter übergießen.",
+        "imageName": "tortellini_spinach_cheese.jpg",
+        "ingredients": [
+            { "name": "80 g Parmesan" },
+            { "name": "60 g Ricotta oder Cottage Cheese" },
+            { "name": "5 Eigelb" },
+            { "name": "40 g Butter, zum Begießen" },
+            { "name": "70 g Blattspinat" },
+            { "name": "1 Prise Muskatnuss" },
+            { "name": "1 Prise Pfeffer" },
+            { "name": "1 Prise Salz" },
+            { "name": "1 Ei für den Teig" },
+            { "name": "150 g Mehl" },
+            { "name": "1 Schuss Olivenöl" },
+            { "name": "1 Prise Salz für den Teig" },
+            { "name": "1 Eigelb für den Teig" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Vegetarisch" },
+            { "name": "Italienisch" }
+        ]
+    },
+    
+    {
+        "title": "Thai Erdnuss Ramen",
+        "recipeDescription": "Öl in einem großen Topf erhitzen. Knoblauch und Ingwer anrösten, dann die Curry-Paste hinzufügen und anschwitzen. Kokosmilch und Brühe aufkochen, Erdnussbutter, Sojasauce, Agavensirup und Jalapeño-Gewürz unterrühren und Brühe ca. 10 Minuten köcheln lassen. Ramen-Nudeln dazugeben und nach Packungsanweisung ziehen lassen. Tofu abtropfen, mit Kurkuma und Maisstärke marinieren, dann knusprig anbraten. Pilze in einer separaten Pfanne braten und mit Sojasauce ablöschen. Nudelsuppe mit Tofu, Pilzen und Toppings wie Frühlingszwiebeln und Erdnüssen servieren.",
+        "imageName": "ramen.jpg",
+        "ingredients": [
+            { "name": "2 TL Kokosnussöl" },
+            { "name": "2 Knoblauchzehen, fein gehackt" },
+            { "name": "1 TL Ingwer, fein gerieben" },
+            { "name": "1 EL Thai Curry Paste" },
+            { "name": "3-4 Tassen Gemüsebrühe" },
+            { "name": "1 Dose Kokosmilch, 400ml" },
+            { "name": "80 g Erdnussbutter" },
+            { "name": "2 EL Sojasauce oder Tamari" },
+            { "name": "1 EL Agavensirup" },
+            { "name": "1 TL Knorr Jalapeño Gewürz" },
+            { "name": "250 g Ramen Nudeln" },
+            { "name": "300 g Tofu, in Würfel geschnitten" },
+            { "name": "2 TL Maisstärke" },
+            { "name": "1/2 TL Kurkuma" },
+            { "name": "2 EL Erdnussöl" },
+            { "name": "350 g Champignons, in Scheiben" },
+            { "name": "1 EL Sojasauce" },
+            { "name": "Optional: geröstete Erdnüsse, Sesam, Frühlingszwiebeln" }
+        ],
+        "tags": [
+            { "name": "Asiatisch" },
+            { "name": "Vegetarisch" },
+            { "name": "Suppe" }
+        ]
+    },
+    
+    {
+        "title": "Pilz-Risotto",
+        "recipeDescription": "Schalotten und Knoblauch fein hacken und in Butter andünsten. Reis hinzufügen und kurz mitdünsten. Mit Weißwein ablöschen und Brühe hinzugeben. Reis etwa 12 Minuten unter Rühren köcheln lassen, dann vom Herd nehmen. Restliche Butter und Parmesan einrühren. Pilze in einer Pfanne mit Schalotte andünsten und unter das Risotto heben. Parmesan unterrührenMit Salz, Muskat und Pfeffer abschmecken und mit Petersilie bestreuen.",
+        "imageName": "pilzrisotto.jpg",
+        "ingredients": [
+            { "name": "300 g Pilze, gemischt (Champignons, Pfifferlinge, Steinpilze)" },
+            { "name": "200 g Risottoreis" },
+            { "name": "2 Schalotten" },
+            { "name": "1 Bund Petersilie" },
+            { "name": "1 Knoblauchzehe" },
+            { "name": "40 g Butter" },
+            { "name": "100 ml Weißwein" },
+            { "name": "400 ml Hühnerbrühe" },
+            { "name": "50 g Parmesan, frisch gerieben" },
+            { "name": "Olivenöl" },
+            { "name": "Salz" },
+            { "name": "Weißer Pfeffer, aus der Mühle" },
+            { "name": "Muskatnuss" },
+            { "name": "Parmesan" }
+
+        ],
+        "tags": [
+            { "name": "Italienisch" },
+            { "name": "Vegetarisch" },
+            { "name": "Reisgericht" }
+        ]
+    },
+    
+    {
+        "title": "Pad Thai",
+        "recipeDescription": "Reisnudeln in heißem Wasser einweichen. Tofu mit Kurkuma einreiben und in Stücke schneiden. Knoblauch fein hacken, Frühlingszwiebeln in 2 cm Stücke schneiden, Sprossen waschen und Erdnüsse hacken. Im Wok Öl erhitzen, Knoblauch kurz anbraten, dann Garnelen und Tofu hinzufügen und braten. Eier zugeben, mit Fischsauce, Zucker und Austernsauce vermengen und umrühren. Wasser und Nudeln hinzufügen, dann Sprossen und Frühlingszwiebeln kurz kochen. Mit gehackten Erdnüssen, Chiliflocken und Limetten servieren.",
+        "imageName": "pad-thai.jpg",
+        "ingredients": [
+            { "name": "100 g Reisnudeln, 3 mm breit" },
+            { "name": "100 g Tofu" },
+            { "name": "100 g Garnelen" },
+            { "name": "4 Knoblauchzehen" },
+            { "name": "2 Frühlingszwiebeln" },
+            { "name": "100 g Sprossen" },
+            { "name": "2 Eier" },
+            { "name": "2 EL neutrales Pflanzenöl (z. B. Sonnenblumenöl)" },
+            { "name": "2 TL brauner Zucker" },
+            { "name": "4 TL Fischsauce" },
+            { "name": "6 TL Austernsauce" },
+            { "name": "1 Tasse Wasser" },
+            { "name": "Erdnüsse, ungesalzen, geröstet" },
+            { "name": "Chiliflocken" },
+            { "name": "1 Limette" },
+            { "name": "Kurkumapulver" }
+        ],
+        "tags": [
+            { "name": "Asiatisch" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Pasta mit Avocado-Creme und Erbsen",
+        "recipeDescription": "Wasser in einem Topf zum Kochen bringen. Die Avocado mit einem Messer halbieren und den Kern entfernen. Das Fruchtfleisch mit einem Esslöffel herausnehmen und in eine kleine Schüssel geben. Die Zitrone halbieren und den Saft einer Hälfte über die Avocado pressen. Die Avocado mit einer Gabel zu einer feinen Creme zerdrücken. Die Knoblauchzehe schälen und klein hacken. Ein paar Blätter Basilikum abzupfen und fein hacken. Beides zur Avocado geben und mit einem Schuss Olivenöl, Salz und Pfeffer abschmecken. Salz zum kochenden Wasser hinzufügen und die Fusilli hineingeben. Erbsen abseihen und zusammen mit der Avocado-Creme mixen. Dann Sauce in den Topf geben und gut vermischen mit Pasta. Abschließend etwas Zitronenschale über die angerichtete Pasta reiben.",
+        "imageName": "erbsen-avocado.jpg",
+        "ingredients": [
+            { "name": "2 Handvoll Bio-Fusilli" },
+            { "name": "1 Handvoll Bio-junge Erbsen" },
+            { "name": "1 Bio-Avocado" },
+            { "name": "1 Bio-Zitrone" },
+            { "name": "1 Bio-Knoblauchzehe" },
+            { "name": "Bio-Olivenöl" },
+            { "name": "Bio-Basilikum" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" }
+        ],
+        "tags": [
+            { "name": "Vegan" },
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Cannelloni mit Ricotta-Spinat-Füllung",
+        "recipeDescription": "Für die Cannelloni mit Ricotta-Spinat-Füllung die Béchamelsauce zubereiten. Dazu die Butter in einem kleinen Topf zerlassen, das Mehl mit einem Schneebesen einrühren und anschwitzen. Die Milch mit dem Muskat aufkochen und nach und nach in die Mehlschwitze rühren, dann mit Salz abschmecken. Unter ständigem Rühren einige Minuten köcheln lassen und beiseite stellen. Für die Füllung den Spinat waschen und abtropfen lassen. Olivenöl in einem Topf erhitzen und den Spinat bei starker Hitze darin zusammenfallen lassen. Danach abkühlen lassen, gut ausdrücken und fein hacken. Ricotta in einer Schüssel zerdrücken, Spinat untermischen, dann Eigelb und die Hälfte des Parmigiano Reggiano hinzugeben. Mit Salz und Pfeffer würzen und zu einer homogenen Masse verrühren. Den Backofen auf 180°C vorheizen und eine Auflaufform mit Butter einfetten. Eine dünne Schicht Béchamelsauce und etwas Barilla Basilico Sauce in die Form geben. Die Cannelloni mit der Spinat-Ricotta-Masse füllen, in die Form legen, mit Béchamelsauce bedecken, die restliche Basilico Sauce darübergeben und mit dem restlichen Parmigiano Reggiano bestreuen. Die Cannelloni im Backofen 40 Minuten überbacken, dann mit Basilikumblättern und etwas Olivenöl servieren.",
+        "imageName": "cannelloni_ricotta_spinat.jpg",
+        "ingredients": [
+            { "name": "20 g Parmesan, gerieben" },
+            { "name": "250 g Cannelloni" },
+            { "name": "400 g Spinat" },
+            { "name": "300 g Ricotta" },
+            { "name": "1 EL Olivenöl" },
+            { "name": "100 g Parmigiano Reggiano, gerieben" },
+            { "name": "1 Prise Salz" },
+            { "name": "1 Prise Pfeffer" },
+            { "name": "1 EL Butter" },
+            { "name": "200 ml Barilla Basilico Sauce" },
+            { "name": "10 g Basilikum" },
+            { "name": "40 g Butter (für die Béchamelsauce)" },
+            { "name": "40 g Mehl (für die Béchamelsauce)" },
+            { "name": "750 ml Milch (für die Béchamelsauce)" },
+            { "name": "4 g Muskat (für die Béchamelsauce)" }
+        ],
+        "tags": [
+            { "name": "Italienisch" },
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" },
+            { "name": "Ofengericht" }
+        ]
+    },
+    
+    {
+        "title": "Schupfnudeln mit Sauerkraut und Kürbis",
+        "recipeDescription": "Bandnudeln nach Packungsanleitung bissfest garen. Kürbis in große Würfel schneiden. Kürbis und Sauerkraut in Öl bei mittlerer Hitze drei Minuten anbraten. Mit zwei Tassen Nudelwasser ablöschen und sieben Minuten weitergaren. Die fertigen Nudeln, zwei Drittel des Käses und der Petersilie unterheben und mit Muskat und Salz abschmecken. Restlichen Käse und Petersilie über die Nudeln streuen, den Deckel auf die Pfanne legen und den Käse auf kleinster Flamme drei Minuten schmelzen lassen. Sofort servieren.",
+        "imageName": "schupfnudeln_sauerkraut_kuerbis.jpg",
+        "ingredients": [
+            { "name": "240 g Bandnudeln" },
+            { "name": "300 g Kürbisfleisch" },
+            { "name": "380 g Sauerkraut" },
+            { "name": "2 EL Rapsöl" },
+            { "name": "100 g Bergkäse, gerieben" },
+            { "name": "2 EL Petersilie, glatt" },
+            { "name": "Muskatnuss" },
+            { "name": "Salz" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Selbstgemachte Spinat-Pasta",
+        "recipeDescription": "Den tiefgekühlten Blattspinat in ein Sieb wiegen und ca. 30 Min. auftauen lassen. Den aufgetauten Spinat kräftig ausdrücken und in den Topf geben, dann zerkleinern. Weizenmehl und Salz zugeben und zu einem Teig verkneten. Den Teig auf einer bemehlten Arbeitsfläche kurz durchkneten, in 4 gleichmäßige Portionen teilen und zu Teigsträngen formen. Wasser erhitzen und die Teigstränge in ca. 1 cm dünne Stücke schneiden und direkt in das köchelnde Wasser geben. Die aufsteigenden Nudeln mit einer Schöpfkelle entnehmen und mit grünem Pesto, Parmesan und Basilikumblättchen servieren.",
+        "imageName": "spinatnudeln.jpg",
+        "ingredients": [
+            { "name": "300 g Blattspinat, tiefgekühlt" },
+            { "name": "300 g Weizenmehl" },
+            { "name": "1 TL Salz" },
+            { "name": "Grünes Pesto" },
+            { "name": "Parmesan, gerieben" },
+            { "name": "Frische Basilikumblätter" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Pasta mit selbstgemachtem Basilikum-Pesto",
+        "recipeDescription": "Koche die Pasta nach Packungsanweisung. Röste die Pinienkerne in einer Pfanne (ohne Öl) und lege sie anschließend auf einen Teller zum Abkühlen. Schäle den Knoblauch und schneide ihn in kleinere Stücke. Gib das Basilikum mit dem Knoblauch und dem Olivenöl in ein hohes Gefäß und püriere alles gut mit einem Pürierstab. Füge die Pinienkerne und eine Prise Salz hinzu und gib je nach gewünschter Konsistenz mehr Olivenöl dazu. Sobald das Pesto cremig ist, rühre den Parmesan unter. Serviere das Pesto über die gekochte Pasta.",
+        "imageName": "basilikum_pesto.jpg",
+        "ingredients": [
+            { "name": "50 g frisches Basilikum" },
+            { "name": "50 g Parmesan, gerieben" },
+            { "name": "40 g Pinienkerne" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "150 ml Olivenöl" },
+            { "name": "Pasta nach Wahl" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Pasta mit grünem Spargel, Tomaten und Basilikum",
+        "recipeDescription": "Schalotten und Knoblauch abziehen, die Schalotten würfeln und den Knoblauch fein hacken. Die Zitrone heiß waschen, die Schale fein abreiben und den Saft auspressen. Den grünen Spargel waschen, das untere Drittel schälen und die holzigen Enden abschneiden. Stangen schräg in ca. 4 cm lange Stücke schneiden. Die cherry Tomaten waschen, halbieren. Basilikum abbrausen, trockenschütteln und hacken, einige Blätter als Deko beiseitelegen. Die Pasta nach Packungsanweisung in gesalzenem Wasser garen. In einer Pfanne das Olivenöl erhitzen und Spargel anbraten. Dann rausnehmen und Schalotten, Knoblauch in der gleichen Pfanne 2–3 Minuten dünsten. Mit Gemüsebrühe und Weißwein ablöschen und 5 Minuten köcheln lassen und immer wieder Pastawasser hinzufügen. Die gekochten Pasta abgießen und zusammen mit den Tomatenwürfeln zum Spargel in die Pfanne geben und gut durchmischen. Den Parmesan mit Zitronenschale und gehacktem Basilikum mischen und zusammen mit dem Zitronensaft unter die Pasta rühren. Mit Pfeffer und etwas Salz abschmecken und servieren.",
+        "imageName": "pasta_spargel.jpg",
+        "ingredients": [
+            { "name": "2 Schalotten" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "1 Bio-Zitrone" },
+            { "name": "500 g grüner Spargel" },
+            { "name": "3 Tomaten" },
+            { "name": "Weisswein" },
+            { "name": "0.5 Bund frischer Basilikum" },
+            { "name": "500 g Pasta" },
+            { "name": "Salz" },
+            { "name": "1 EL Olivenöl" },
+            { "name": "100 ml Gemüsebrühe" },
+            { "name": "50 g geriebener Parmesan" },
+            { "name": "weißer Pfeffer" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Pasta" }
+        ]
+    },
+    
+    {
+        "title": "Tomaten-Pesto-NudelAuflauf",
+        "recipeDescription": "Gesalzenes Wasser in einem großen Topf zum Kochen bringen. Die Rigatoni nach Packungsanleitung kochen, jedoch einige Minuten vor der angegebenen Garzeit abgießen, sodass sie noch nicht ganz al dente sind. In der Zwischenzeit die Kirschtomaten halbieren. Getrocknete Tomaten, Knoblauch, Cashewkerne, Olivenöl und Zitronensaft in einen Zerkleinerer geben und zu einem cremigen Pesto mixen, mit Salz und Pfeffer abschmecken. Den Backofen auf 175°C vorheizen. Kirschtomaten, Balsamicoessig und Honig in Pfanne  3 Minuten anbraten. Dann das Pesto und die Schlagsahne hinzufügen, vermengen und 3-4 Minuten köcheln lassen. Die vorgekochten Rigatoni in die Pfanne geben und gut schwenken. Die Mischung in eine Auflaufform füllen, mit geriebenem Parmesankäse und Mozzarella bestreuen und bei 175°C ca. 15 Minuten backen, bis der Käse goldbraun ist. Vor dem Servieren mit frischem Basilikum bestreuen und genießen.",
+        "imageName": "rigatoni_pesto_auflauf.jpg",
+        "ingredients": [
+            { "name": "400 g Pasta" },
+            { "name": "10 Kirschtomaten" },
+            { "name": "180 g getrocknete Tomaten in Öl" },
+            { "name": "1 Zehe Knoblauch" },
+            { "name": "80 g Cashewkerne" },
+            { "name": "50 ml Olivenöl" },
+            { "name": "1 EL Zitronensaft" },
+            { "name": "1 EL Balsamicoessig" },
+            { "name": "1 TL Honig" },
+            { "name": "100 ml Schlagsahne" },
+            { "name": "150 g Parmesankäse, gerieben" },
+            { "name": "150 g Mozzarella" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "Pflanzenöl, zum Anbraten" },
+            { "name": "Basilikum, zum Servieren" }
+        ],
+        "tags": [
+            { "name": "Auflauf" },
+            { "name": "Pasta" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Pasta mit Curry-Kokos-Sauce und Garnelen",
+        "recipeDescription": "Die Nudeln nach Packungsanleitung zubereiten. Für die Sauce die Zwiebel und Knoblauchzehen schälen und fein schneiden. Das Zitronengras längs halbieren und mehrmals knicken. Die Garnelen anbraten, dann herausnehmen und beiseitestellen. Zwiebel, Knoblauch, Chili, Tomatenmark, Zitronengras, Ingwer und Masala in einem Topf mit 4 EL Erdnussöl anschwitzen. Mit Brühe und Kokosmilch aufgießen und etwa 20 Minuten köcheln lassen. Zitronengras entfernen, die Sauce mit den restlichen 4 EL Erdnussöl fein pürieren und mit Salz und Pfeffer abschmecken. Mit frisch gehackten Kräutern verfeinern und bei Bedarf mit Kartoffelstärke binden, um die gewünschte Konsistenz zu erreichen. Vor dem Servieren die Garnelen zurück in die Sauce geben.",
+        "imageName": "nudeln_kokos_sauce.jpg",
+        "ingredients": [
+            { "name": "125 g Zwiebel" },
+            { "name": "3 Knoblauchzehen" },
+            { "name": "1 rote Chili, fein gehackt" },
+            { "name": "2 EL Tomatenmark" },
+            { "name": "1 Stange Zitronengras" },
+            { "name": "1 EL frischer Ingwer, fein gehackt" },
+            { "name": "2 TL Thai Masala" },
+            { "name": "125 ml Brühe" },
+            { "name": "125 ml Kokosmilch" },
+            { "name": "Frische Kräuter (Basilikum, Koriander, Zitronenmelisse)" },
+            { "name": "Kartoffelstärke, zum Binden" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "Curry" },
+            { "name": "8 EL Erdnussöl" }
+        ],
+        "tags": [
+            { "name": "Pasta" },
+            { "name": "Fisch" }
+        ]
+    },
+    
+    {
+        "title": "Butter Chicken",
+        "recipeDescription": "Das Hähnchen wird in zwei Marinaden eingelegt, anschließend in den Ofen und in einer Tomaten-Curry-Sauce mit Butter und Gewürzen serviert. bei Fragen: https://www.youtube.com/watch?v=uHgCYeXdRVI&t=572s",
+        "imageName": "butter_chicken.jpg",
+        "ingredients": [
+            { "name": "1,5 bis 2 Pfund Hähnchenbrust" },
+            { "name": "2 EL frisch gepresster Zitronensaft" },
+            { "name": "3 TL Kashmiri-Chilipulver" },
+            { "name": "1 TL koscheres Salz" },
+            { "name": "1/3 Tasse griechischer Joghurt" },
+            { "name": "2 EL Avocadoöl" },
+            { "name": "1 TL gemahlener Bockshornklee (Blätter bevorzugt)" },
+            { "name": "2 TL Kurkumapulver" },
+            { "name": "3 EL gehackter Knoblauch" },
+            { "name": "1 EL gehackter Ingwer" },
+            { "name": "2 TL Garam Masala" },
+            { "name": "24 oz Tomaten (nach Wahl)" },
+            { "name": "1 Zimtstange" },
+            { "name": "1 grüne Chili" },
+            { "name": "6 Kardamomkapseln" },
+            { "name": "3 kleine Stücke Nelke" },
+            { "name": "5 EL ungesalzene Butter (3 EL für den Anfang, 2 EL zum Abschließen)" },
+            { "name": "30 Cashewnüsse" },
+            { "name": "2 TL Kashmiri-Chilipulver" },
+            { "name": "1 TL Zucker" },
+            { "name": "2 Tassen Wasser" },
+            { "name": "1 TL Garam Masala" },
+            { "name": "1/4 Tasse Sahne" },
+            { "name": "1 TL Bockshornkleesamen (Blätter bevorzugt)" },
+            { "name": "1-2 TL Salz" }
+        ],
+        "tags": [
+            { "name": "Reisgericht" },
+            { "name": "Indisch" }
+        ]
+    },
+    
+    {
+        "title": "Linsen Dal",
+        "recipeDescription": "Zwiebeln abziehen und würfeln, Knoblauch abziehen und hacken. Ingwer schälen und klein schneiden. Linsen in ein Sieb geben und abbrausen. Koriander bzw. Petersilie abbrausen, trockenschütteln und grob hacken.\nDie Gewürze (Kurkuma, Koriander, Kreuzkümmel, Paprikapulver und Garam Masala) in einem Schälchen vermischen. Das Rapsöl in einem großen Topf erhitzen und Zwiebelwürfel, Knoblauch und Ingwer darin 2-3 Minuten braten. Dann die Gewürze und die roten Linsen dazugeben und kurz mit anschwitzen, mit der Gemüsebrühe ablöschen und einmal aufkochen lassen. Zugedeckt etwa 10 Minuten köcheln lassen.\nGehackte Tomaten, Kokosmilch, Ahornsirup und Limettensaft unterrühren. Mit Pfeffer und etwas Salz abschmecken und weitere 10 Minuten offen köcheln lassen. Wenn das Dal zu dickflüssig ist, noch etwas Wasser oder gehackte Tomaten hinzugeben.",
+        "imageName": "linsen_dahl.jpg",
+        "ingredients": [
+            { "name": "2 Zwiebeln" },
+            { "name": "4 Knoblauchzehen" },
+            { "name": "1 Stück Ingwer (daumengroß)" },
+            { "name": "250 g rote Linsen" },
+            { "name": "1 Bund Koriander oder Petersilie" },
+            { "name": "1 TL Kurkuma, gemahlen" },
+            { "name": "1 TL Koriander, gemahlen" },
+            { "name": "1 TL Kreuzkümmel, gemahlen" },
+            { "name": "1 TL Paprikapulver, gemahlen" },
+            { "name": "1 TL Garam Masala" },
+            { "name": "2 EL Rapsöl" },
+            { "name": "500 ml Gemüsebrühe (am besten selbst gekocht, alternativ Bio-Instant-Brühe)" },
+            { "name": "200 g gehackte Tomaten (Dose)" },
+            { "name": "200 ml Kokosmilch" },
+            { "name": "1 TL Ahornsirup" },
+            { "name": "2 EL Limettensaft" },
+            { "name": "Pfeffer" },
+            { "name": "Salz" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Vegan" },
+            { "name": "Reisgericht" },
+            { "name": "Indisch" }
+        ]
+    },
+    
+    {
+        "title": "Gemüse Curry",
+        "recipeDescription": "Das Gemüse schälen bzw. abwaschen und in Stücke schneiden. Den Reis kochen. Während der Reis kocht: Von der Kokosmilch die Creme abschöpfen und mit der Currypaste im Wok verrühren. Kurz einköcheln, bis sich kleine ölige Bläschen bilden. Als erstes die Kartoffel (längste Garzeit) in den Wok geben, außerdem Zwiebel und Knoblauch dazu. Etwa 5 Minuten anbraten / köcheln. Das restliche Gemüse (mit Ausnahme der Erbsen) in den Wok geben und in der Currysauce kurz unter Rühren anbraten. Dann die restliche Kokosmilch beifügen und kurz aufkochen. Hitze reduzieren und auf kleiner Flamme ein paar Minuten köcheln. Mit etwas Limettensaft und der hellen Sojasoße abschmecken, und noch die Erbsen dazugeben. Das Curry mit Reis auf Tellern verteilen. Nach Belieben mit Koriander und gehackten Erdnüssen garnieren.",
+        "imageName": "gemuese_curry.jpg",
+        "ingredients": [
+            { "name": "1 Karotte" },
+            { "name": "½ rote Paprika" },
+            { "name": "1 kleine Zucchini" },
+            { "name": "1 kleiner Brokkoli" },
+            { "name": "40 g TK-Erbsen" },
+            { "name": "1 Zwiebel" },
+            { "name": "1 Knoblauchzehe" },
+            { "name": "2 EL rote Currypaste" },
+            { "name": "1 Dose Kokosmilch (400 ml)" },
+            { "name": "½ Limette" },
+            { "name": "1-2 EL helle Sojasoße" },
+            { "name": "gesalzene Erdnüsse, gehackt" },
+            { "name": "frischer Koriander" },
+            { "name": "Jasminreis" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Asiatisch" },
+            { "name": "Reisgericht" },
+            { "name": "Vegan" }
+        ]
+    },
+    
+    {
+        "title": "Poke Bowl",
+        "recipeDescription": "Reis nach Packungsanweisung aufsetzen und garen. Edamame nach Packungsanweisung zubereiten. Tofu abtropfen lassen, anschließend zwischen 2 Küchenkrepp oder Trockentücher legen und gut auspressen. Tofu in ca. 1,5 cm große Würfel schneiden. Rotkohl ggfs. putzen und waschen, dann in dünne Streifen hobeln. Lauchzwiebeln putzen, waschen und in feine Ringe schneiden. Möhren putzen, waschen, ggfs. schälen und mit einem Sparschäler oder Hobel in dünne Streifen schneiden. Gurke waschen und würfeln. Avocado mit einem Messer vorsichtig halbieren und den Kern entfernen. Avocadofruchtfleisch mit einem Esslöffel herausheben und würfeln, dabei mit etwas Limettensaft beträufeln. Koriander bzw. Thai-Basilikum abbrausen, trockenschütteln und hacken bzw. Blätter von den Stielen zupfen. Sesamsamen in einer Pfanne ohne Öl goldgelb rösten, beiseitestellen. Rapsöl in der zuvor verwendeten Pfanne erhitzen und die Tofu-Würfel darin bei mittlerer Hitze 5-6 Minuten knusprig braten, dabei immer wieder wenden. Anschließend mit 1 EL Sojasauce ablöschen und beiseitestellen. Den fertig gegarten Reis in 4 Bowls geben, das Gemüse (Gurkenwürfel, Möhren, Rotkohl, Lauchzwiebeln), Edamame, Avocadowürfel und gebratenen Tofu daneben anrichten. Mit dem gehackten Koriander und den Sesamsamen bestreuen und mit dem Dressing servieren.",
+        "imageName": "poke_bowl.jpg",
+        "ingredients": [
+            { "name": "200 g Basmati-Reis oder Jasminreis" },
+            { "name": "200 g Edamame (TK; alternativ: Erbsen)" },
+            { "name": "200 g Tofu" },
+            { "name": "150 g Rotkohl" },
+            { "name": "½ Bund Lauchzwiebel" },
+            { "name": "2 Möhren" },
+            { "name": "½ Gurke" },
+            { "name": "1 Avocado" },
+            { "name": "1 TL Limettensaft" },
+            { "name": "½ Bund Koriander oder Thai-Basilikum" },
+            { "name": "1 EL Sesamsamen" },
+            { "name": "1 EL Rapsöl" },
+            { "name": "1 EL Sojasauce" }
+        ],
+        "tags": [
+            { "name": "Gesund" },
+            { "name": "Vegan" },
+            { "name": "Vegetarisch" },
+            { "name": "Reisgericht" },
+            { "name": "Asiatisch" }
+        ]
+    },
+    
+    {
+        "title": "Egg Fried Rice",
+        "recipeDescription": "Zunächst Galgant schälen und reiben. Dann alle Zutaten der Sauce verrühren. Etwas Pflanzenöl in einem Wok erhitzen, bis er leicht raucht. Schmalz hinzufügen. In der Zwischenzeit Knoblauch, Chilis und Schalotten fein schneiden. Im heißen Schmalz das Gemüse 2-3 Minuten anrösten. Dabei rühren. Währenddessen den Reis bereitstellen und drei Eier verquirlen. Reis in den Wok schmeißen und 1-2 Minuten erhitzen. Dann das Ei unter stetem Schwenken unterheben, bis es stockt. Weißen Pfeffer und evtl. MSG hinzugeben. Dann die Sauce einrühren und den Wok ausstellen. Lauch in Ringe schneiden und den Egg Fried Rice auf Teller anrichten. Mit Lauch und Röstzwiebeln bestreuen.",
+        "imageName": "egg_fried_rice.jpg",
+        "ingredients": [
+            { "name": "1 daumengroßes Stück Galgant" },
+            { "name": "1 Teelöffel dunkles Sesamöl" },
+            { "name": "2 Esslöffel Sambal Oelek" },
+            { "name": "3 Knoblauchzehen" },
+            { "name": "2 Esslöffel helle Sojasauce" },
+            { "name": "1 Teelöffel Honig" },
+            { "name": "Pflanzenöl" },
+            { "name": "2 Esslöffel Gänseschmalz (oder Butterschmalz)" },
+            { "name": "3 Knoblauchzehen" },
+            { "name": "3 frische Chilis" },
+            { "name": "3 Schalotten" },
+            { "name": "3 Eier" },
+            { "name": "200 Gramm Reis vom Vortag (oder soviel noch übrig ist...)" },
+            { "name": "1 Esslöffel weißer Pfeffer" },
+            { "name": "1 Esslöffel MSG (wenn du es besitzt und keine Angst davor hast)" },
+            { "name": "2 Lauchzwiebeln" },
+            { "name": "3 Esslöffel Röstzwiebeln" }
+        ],
+        "tags": [
+            { "name": "Asiatisch" },
+            { "name": "Vegetarisch" },
+            { "name": "Reisgericht" }
+        ]
+    },
+    
+    {
+        "title": "Paella",
+        "recipeDescription": "Die tiefgekühlten Meeresfrüchte rechtzeitig aus dem Tiefkühler holen und nach Packungsanweisung auftauen lassen. Zwiebel und Knoblauch schälen und fein würfeln. Paprikaschote waschen, entkernen und ebenfalls in kleine Würfel schneiden. Hähnchenbrustfilet abtupfen, in 3x3 cm Stücke schneiden und mit Paprikapulver, Salz und Pfeffer würzen. In einer ofenfesten Pfanne mit 1 EL Olivenöl die Hähnchenstücke und Paprikawürfel anbraten. Herausnehmen und beiseitestellen. Im restlichen Öl Zwiebel- und Knoblauchwürfel andünsten. Weißwein und Reis hinzufügen, gut verrühren und mit Brühe ablöschen bis Reis fast fertig ist. Safran hinzufügen. Danach Meeresfrüchte, TK-Erbsen, Paprikawürfel, Hähnchenstücke, Rosmarinzweig und optional Lorbeerblätter unterrühren und weiter Kochen Mit Salz, Pfeffer und Zitrone servieren.",
+        "imageName": "paella.jpg",
+        "ingredients": [
+            { "name": "800 ml Geflügelfond (z. B. 2 Gläser à 400 ml)" },
+            { "name": "400 g Hühnerbrustfilet (Bio bevorzugt)" },
+            { "name": "250 g TK-Meeresfrüchte" },
+            { "name": "100 g TK-Erbsen" },
+            { "name": "250 g Paella Reis oder Risotto Reis (Sorte Arborio)" },
+            { "name": "100 g passierte Tomaten" },
+            { "name": "1 große rote Spitzpaprika (ca. 160 g)" },
+            { "name": "1 Zwiebel (mittelgroß)" },
+            { "name": "3 Knoblauchzehen" },
+            { "name": "3 EL Olivenöl" },
+            { "name": "1/2 TL Safranfäden (oder 3 Briefchen, ca. 0,3 g insgesamt)" },
+            { "name": "1 Zweig Rosmarin (frisch)" },
+            { "name": "1 TL Paprika (edelsüß)" },
+            { "name": "1 Prise Salz und Pfeffer" },
+            { "name": "1 Bio Zitrone (zum Servieren)" },
+            { "name": "2 Lorbeerblätter (optional, frisch oder getrocknet)" }
+        ],
+        "tags": [
+            { "name": "Spanisch" },
+            { "name": "Reisgericht" },
+            { "name": "Fisch" }
+        ]
+    },
+    
+    {
+        "title": "Kichererbsen-Curry",
+        "recipeDescription": "Kichererbsen mit Wasser abspülen und abtropfen lassen. Zwiebel und Knoblauch klein hacken. Öl in einer Pfanne erhitzen und die Zwiebeln glasig dünsten. Dann Knoblauch, Curry und Kreuzkümmel kurz anbraten. Gehackte Tomaten, Kokosmilch und Kichererbsen zugeben. Aufkochen und bei mittlerer Hitze 10 Minuten köcheln lassen. Mit Salz, Pfeffer und Limettensaft abschmecken.",
+        "imageName": "kichererbsen_curry.jpg",
+        "ingredients": [
+            { "name": "400 g Kichererbsen (Glas oder Dose)" },
+            { "name": "1 Zwiebel" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "2 EL Kokosöl oder Rapsöl" },
+            { "name": "2 TL Curry" },
+            { "name": "1 TL Kreuzkümmel" },
+            { "name": "400 g gehackte Tomaten (Dose)" },
+            { "name": "400 ml Kokosmilch (Dose)" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "1/2 Limette" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Vegan" },
+            { "name": "Reisgericht" }
+        ]
+    },
+    
+    {
+        "title": "Tofu Saté Spieße mit Erdnusssoße",
+        "recipeDescription": "Für die Spieße den Tofu zwischen Küchenpapier trocken pressen. Dann in ca. 1 cm große Würfel schneiden und in eine Schüssel geben. Erdnussbutter, rote Thai Currypaste, Sojasauce, Agavensirup, Reisessig, Wasser und Knoblauch in einer Schüssel zu einer Marinade verrühren. Dann über die Tofuwürfel gießen, alles gut vermengen und 5-10 Minuten ziehen lassen. Währenddessen den Backofen auf 200 °C Umluft vorheizen und ein Backblech mit Backpapier auslegen. (Alternativ können die Spieße auch auf dem Grill zubereitet werden). Die marinierten Tofuwürfel auf Holzspieße stecken und mit genügend Abstand auf das vorbereitete Backblech legen. Die Spieße 20-25 Minuten im Backofen backen (oder 5-10 Minuten auf dem Grill grillen). Nach der Hälfte der Backzeit wenden. Währenddessen den Reis nach Packungsanweisung kochen und die Satay-Sauce machen. Hierfür Kokosmilch, Erdnussbutter, rote Thai Currypaste, Sojasauce, Agavensirup, Reisessig, Knoblauch, Ingwer und Sriracha nach Geschmack cremig pürieren. Die Tofu-Spieße nach Belieben auf Reis servieren, Limettenspalten dazulegen, mit Sesam, Kräutern und Lauchzwiebeln garnieren und dazu die Satay-Sauce reichen.",
+        "imageName": "tofu_sate_spiesse.jpg",
+        "ingredients": [
+            { "name": "400 g Tofu" },
+            { "name": "1 EL Erdnussbutter" },
+            { "name": "1 TL rote Thai Currypaste" },
+            { "name": "2 EL Sojasauce oder Tamari-Sauce" },
+            { "name": "1 EL Agavensirup oder Ahornsirup" },
+            { "name": "1 EL Reisessig oder anderer Essig" },
+            { "name": "1 EL Wasser" },
+            { "name": "2 Knoblauchzehen, gepresst" },
+            { "name": "120 ml Kokosmilch aus der Dose" },
+            { "name": "80 g Erdnussmus" },
+            { "name": "1 TL rote Thai Currypaste" },
+            { "name": "2 EL Sojasauce oder Tamari-Sauce" },
+            { "name": "1 EL Agavensirup oder Ahornsirup" },
+            { "name": "1 EL Reisessig oder Limettensaft" },
+            { "name": "1 Zehe Knoblauch, gepresst" },
+            { "name": "1 TL Ingwer, gerieben" },
+            { "name": "Sriracha oder Chilipulver nach Geschmack" },
+            { "name": "ORYZA Selection Kamalis Duftreis oder anderer Reis" },
+            { "name": "Sesam oder Erdnüsse, gehackt" },
+            { "name": "Kräuter, z.B. Koriander, Minze, Petersilie, Lauchzwiebeln" },
+            { "name": "Limetten" }
+        ],
+        "tags": [
+            { "name": "Vegan" },
+            { "name": "Asiatisch" }
+        ]
+    },
+    
+    {
+        "title": "Crispy Rice Bowl",
+        "recipeDescription": "Reis nach Packungsanweisung kochen. In der Zwischenzeit den Ofen auf 200°C Ober- und Unterhitze vorheizen. Ingwer schälen und fein reiben. Für das Gochujang-Limetten-Dressing: Knoblauchzehen schälen und in Scheiben schneiden. Schalotte schälen und fein würfeln. Chili waschen und in feine Ringe schneiden. Sojasauce, 60ml Wasser, Limettensaft, Knoblauch, Chili und Schalotten miteinander verrühren und 10 Minuten ziehen lassen. Olivenöl zugeben und alles kräftig verrühren. Gochujangpaste mit 3 EL Pflanzenöl und Ingwer in einer Schüssel verrühren, Reis zugeben und gut vermengen. Reis flach auf ein mit Backpapier ausgelegtes Backblech verteilen und ca. 30 Minuten im Ofen backen. Nach der Hälfte der Garzeit den Reis durchmengen und anschließend weiter backen. Kräuter waschen und grob klein schneiden. Gurke waschen, längs vierteln und in kleine Stücke schneiden. Reis, Gurke und Kräuter in eine Schale geben, mit dem Dressing übergießen und vermengen. Mit Thunfischcreme und Avocado servieren.",
+        "imageName": "crispy_rice_bowl.jpg",
+        "ingredients": [
+            { "name": "4 EL Sojasauce" },
+            { "name": "4 EL Olivenöl" },
+            { "name": "200 g Langkornreis" },
+            { "name": "20 g Ingwer" },
+            { "name": "2 Zehen Knoblauch" },
+            { "name": "1 Schalotte" },
+            { "name": "1/2 rote Chili" },
+            { "name": "Saft einer Limette" },
+            { "name": "1 EL Gochujangpaste (oder Sambal Oelek)" },
+            { "name": "3 EL Pflanzenöl" },
+            { "name": "1 Handvoll gemischte Kräuterblätter (Koriander, Petersilie und Minze)" },
+            { "name": "1 Salatgurke" },
+            { "name": "Salz und Pfeffer" },
+            { "name": "1 Avocado" },
+            { "name": "Thunfischcreme" },
+            { "name": "Frühlingszwiebeln" }
+        ],
+        "tags": [
+            { "name": "Asiatisch" },
+            { "name": "Fisch" }
+        ]
+    },
+    
+    {
+        "title": "Flammkuchen",
+        "recipeDescription": "Für den Teig Mehl mit 4 EL Olivenöl, den Eigelben, Salz und 200 ml lauwarmem Wasser zu einem glatten Teig kneten. Den Teig mit 1 EL Olivenöl bestreichen und in Frischhaltefolie wickeln. Bei Raumtemperatur ca. 30 Minuten ruhen lassen. Den Teig halbieren und zu zwei dünnen Fladen ausrollen, die jeweils auf ein Blech passen. Nach Belieben belegen und im vorgeheizten Ofen bei 250 Grad (Umluft: 230 Grad) ca. 10 Minuten backen. Für den Belag Schmand mit Quark und Salz und Pfeffer verrühren. Belag auf die Flammkuchenteige verteilen und glatt streichen. Zwiebeln nach Belieben klein schneiden und mit den Schinkenwürfeln ebenfalls auf den Flammkuchen verteilen. Ofen auf 250 Grad (Umluft: 230 Grad) vorheizen. Flammkuchen im vorgeheizten Ofen ca. 10 Minuten backen, bis er braun wird oder Blasen wirft. Kurz vor dem Servieren noch etwas, in Röllchen geschnittenen, Schnittlauch auf den Flammkuchen streuen.",
+        "imageName": "flammkuchen.jpg",
+        "ingredients": [
+            { "name": "450 g Mehl" },
+            { "name": "5 EL Olivenöl" },
+            { "name": "2 Eigelbe" },
+            { "name": "2 Prisen Salz" },
+            { "name": "200 ml lauwarmes Wasser" },
+            { "name": "500 g selbstgemachter Flammkuchenteig" },
+            { "name": "200 g Schmand" },
+            { "name": "250 g Magerquark" },
+            { "name": "etwas Salz und Pfeffer" },
+            { "name": "1 - 2 Zwiebeln" },
+            { "name": "150 g Speckwürfel" },
+            { "name": "etwas Schnittlauch zum Garnieren" }
+        ],
+        "tags": [
+        ]
+    },
+    
+    {
+        "title": "Flammkuchen mit Kürbis",
+        "recipeDescription": "Für den Belag Schmand mit Crème fraîche, Salz, Pfeffer und Muskat verrühren. Den Hokkaidokürbis waschen, entkernen und in dünne Scheiben schneiden. Die rote Zwiebel schälen und in feine Ringe schneiden. Den Teig auf ein Blech ausrollen und mit der Schmand-Crème-fraîche-Mischung bestreichen. Die Kürbisscheiben, Zwiebelringe, zerbröselten Feta und Walnüsse auf dem Flammkuchen verteilen. Mit Thymian bestreuen. Im vorgeheizten Ofen bei 250 Grad (Umluft: 230 Grad) ca. 10 Minuten backen, bis der Rand knusprig und leicht gebräunt ist.",
+        "imageName": "flammkuchen_kuerbis.jpg",
+        "ingredients": [
+            { "name": "450 g Mehl" },
+            { "name": "5 EL Olivenöl" },
+            { "name": "2 Eigelbe" },
+            { "name": "2 Prisen Salz" },
+            { "name": "200 ml lauwarmes Wasser" },
+            { "name": "100 g Schmand" },
+            { "name": "100 g Crème fraîche" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "Muskat" },
+            { "name": "250 g Hokkaidokürbis" },
+            { "name": "1 rote Zwiebel" },
+            { "name": "100 g Feta" },
+            { "name": "10 Walnüsse" },
+            { "name": "1 EL Thymian" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Gemüse-Wraps",
+        "recipeDescription": "Die Kichererbsen in ein Sieb geben, kalt abspülen und abtropfen lassen. Die Paprikaschote und die Zucchini putzen und waschen. Beides klein würfeln. Die Tomaten waschen und halbieren. Die Zwiebel schälen und fein würfeln. Öl in einer Pfanne erhitzen. Paprika, Zucchini und Zwiebel darin unter Wenden ca. drei Minuten braten. Kichererbsen, Tomaten und 1 TL Currypulver zugeben und ca. zwei Minuten weiter braten. Mit Salz und Pfeffer abschmecken. Für die Guacamole die Limette halbieren und eine Hälfte auspressen. Die übrige Hälfte anderweitig verwenden. Die Avocado längs halbieren und den Kern herauslösen. Das Fruchtfleisch mit einem Löffel aus der Schale lösen und in grobe Stücke schneiden. In einem hohen Rührbecher mit dem Limettensaft und -abrieb mit dem Stabmixer fein pürieren. Mit Salz und Pfeffer abschmecken. Die Wraps mit Guacamole bestreichen, das Gemüse darauf verteilen, mit Koriander bestreuen und zu Wraps aufrollen.",
+        "imageName": "gemuese-wrap.jpg",
+        "ingredients": [
+            { "name": "6 Wraps" },
+            { "name": "1 Dose Kichererbsen (ca. 250 g)" },
+            { "name": "1 rote Paprikaschote" },
+            { "name": "1 Zucchini" },
+            { "name": "150 g Kirschtomaten" },
+            { "name": "1 rote Zwiebel" },
+            { "name": "3 EL Öl zum Braten" },
+            { "name": "1 TL Currypulver" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "1 Limette (Schalenabrieb und Saft davon)" },
+            { "name": "1 Avocado" },
+            { "name": "1 TL Koriander" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Schnell" }
+        ]
+    },
+    
+    {
+        "title": "Halloumi-Wraps",
+        "recipeDescription": "Enden der Gurke abschneiden und Gurke in 1 cm große Würfel schneiden. Zitrone in Spalten schneiden. Halloumi in 8 gleich große Stäbchen schneiden. Knoblauch ebenfalls abziehen, grob hacken, 1 Prise Salz daraufgeben und mit der Seitenfläche der Klinge den Knoblauch zu einer Paste zerdrücken. Chili längs halbieren und in feine Streifen schneiden. In einer kleinen Schüssel Halloumisticks mit Öl und Oregano marinieren. In einer weiteren kleinen Schüssel Joghurt mit der Hälfte der Knoblauchpaste, einigen Tropfen Zitronensaft, etwas Salz und Pfeffer vermischen. Eine große Pfanne bei mittlerer Hitze erwärmen, Halloumisticks ohne Fettzugabe 3 – 4 Min. rundherum goldbraun anbraten. Jalapenos klein würfeln und mit Gurkenwürfeln und Avocado würfeln in einer Schüssel vermischen. Zitronensaft hinzufügen. Die Tortilla-Wraps bei Bedarf leicht erwärmen, Jughurtsauce auf den Tortillas verteilen. Halloumisticks und Gurkensalat darauf verteilen und mit Zitronenspalten genießen. Mit Koriander garnieren.",
+        "imageName": "halloumi_wraps.jpg",
+        "ingredients": [
+            { "name": "Avocado" },
+            { "name": "1 Gurke" },
+            { "name": "200 g Halloumi" },
+            { "name": "1 Knoblauchzehe" },
+            { "name": "Jalapenos" },
+            { "name": "Joghurt" },
+            { "name": "2 g gerebelter Oregano" },
+            { "name": "8 Tortilla-Wraps" },
+            { "name": "½ gewachste Zitrone" },
+            { "name": "1 EL Öl" },
+            { "name": "1 Prise Salz" },
+            { "name": "1 Prise Zucker" },
+            { "name": "Pfeffer" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Schnell" }
+        ]
+    },
+    
+    {
+        "title": "Schwarze-Bohnen-Tacos",
+        "recipeDescription": "Füllung vorbereiten: Zwiebel, Knoblauch und Paprika in einer Pfanne anbraten. Schwarze Bohnen hinzufügen und kochen, bis sie heiß sind. Gewürze, Chili oder Jalapeno und Chipotle- oder Paprikapaste unterrühren. Bohnen grob zerstampfen. Heizen Sie Ihren Backofen auf 200 °C/400 °F vor. Füllen Sie jede Tortilla mit der Bohnenmischung und bestreuen Sie sie mit veganem Käse. Legen Sie die gefüllten Tortillas auf ein Backblech und bestreichen Sie die Oberseite mit etwas Öl. Backen Sie sie 15–20 Minuten lang oder bis die Tortillas goldbraun und knusprig sind. Garnieren Sie die Tacos mit Salsa, Guacamole oder gehacktem Koriander und genießen Sie sie sofort.",
+        "imageName": "schwarze_bohnen_tacos.jpg",
+        "ingredients": [
+            { "name": "2 Tassen Schwarze Bohnen" },
+            { "name": "8 Tortillas (Mais oder Mehl)" },
+            { "name": "1 mittlere Zwiebel, gehackt" },
+            { "name": "3 Zehen Knoblauch, gehackt" },
+            { "name": "1 rote Paprika, gewürfelt" },
+            { "name": "1 frische Chili oder Jalapeno, gehackt (optional)" },
+            { "name": "1 Teelöffel Würze (z. B. Kreuzkümmel, Chilipulver, mexikanische Gewürzmischung)" },
+            { "name": "1 Esslöffel Chipotle- oder Paprikapaste" },
+            { "name": "1 Tasse Käse, geschreddert" }
+        ],
+        "tags": [
+            { "name": "Schnell" },
+            { "name": "Vegetarisch" },
+        ]
+    },
+    
+    {
+        "title": "Burritos",
+        "recipeDescription": "Für die Füllung Reis und Wasser in einen Topf geben. Salz hinzufügen und den Reis bei mittlerer Hitze aufkochen lassen. Sobald das Wasser kocht, den Topf mit einem Deckel verschließen. Die Hitze so reduzieren, dass der Reis leicht köchelt. 20 Minuten ziehen lassen, bis das Wasser vollständig verkocht ist. Anschließend den Topf vom Herd nehmen. Zwiebel, Bohnen und Mais anbraten. Öl in einer beschichteten Pfanne erhitzen und das vegane Hack bei mittlerer Hitze knusprig anbraten. Zwiebeln, Bohnen und Mais dazugeben und 2-3 Minuten mitbraten, bis die Zwiebeln glasig sind. Mit Cayennepfeffer, Paprikapulver, Salz und Pfeffer würzen. Tomatenmark und Wasser dazugeben und 5 Minuten leicht köcheln lassen. Pfanne vom Herd nehmen und abschmecken. Für die Guacamole Avocados halbieren, den Kern entfernen und das Fruchtfleisch mit einem Löffel aus der Schale lösen. Knoblauchzehe pressen und mit den restlichen Zutaten zu einer cremigen Guacamole verarbeiten. Eisbergsalat, Tomate und Koriander vorbereiten. Die Tortilla-Wraps nach Packungsanleitung im Backofen erwärmen, mit den vorbereiteten Zutaten belegen, aufrollen und servieren.",
+        "imageName": "burritos.jpg",
+        "ingredients": [
+            { "name": "200 g Reis (z. B. Basmati)" },
+            { "name": "400 ml Wasser" },
+            { "name": "1 rote Zwiebel" },
+            { "name": "1 Dose schwarze Bohne oder Kidneybohnen (265 g Abtropfgewicht)" },
+            { "name": "1 Dose Mais (140 g Abtropfgewicht)" },
+            { "name": "2 EL geschmacksneutrales Öl" },
+            { "name": "250 g veganer Hack-Ersatz" },
+            { "name": "2 TL Paprikapulver (edelsüß)" },
+            { "name": "1 Prise Cayennepfeffer" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "2 EL Tomatenmark" },
+            { "name": "100 ml Wasser" },
+            { "name": "2 Avocados" },
+            { "name": "1 Knoblauchzehe" },
+            { "name": "1 EL Olivenöl" },
+            { "name": "2 TL Zitronensaft" },
+            { "name": "¼ Eisbergsalat" },
+            { "name": "1 Tomate" },
+            { "name": "1 Handvoll Koriander (optional)" },
+            { "name": "6 Stk. Tortilla-Wraps" },
+            { "name": "150 g vegane Crème fraîche" },
+            { "name": "150 g Salsa-Sauce (optional)" }
+        ],
+        "tags": [
+            { "name": "Vegan" },
+            { "name": "Vegetarisch" },
+            { "name": "Reisgericht" }
+        ]
+    },
+    
+    {
+        "title": "Hawaii Toast",
+        "recipeDescription": "Zuerst wird auf eine Scheibe Toastbrot die Margarine gleichmäßig verteilt. Nun kommt eine halbe Scheibe Kochschinken rauf, dann die Ananasscheibe und zuletzt der Käse. Das Ganze wird in einem auf 180° vorgeheizten Backofen auf das Gitter (mit Backpapier) gelegt. Sobald der Käse über der Ananas zerlaufen ist, beginnt die Bräunung. Jetzt, wo sich über dem Loch der Ananasscheibe eine braune Stelle bildet, sollte der Hawaii Toast herausgenommen und nach 1 Minute Abkühlung gegessen werden. Die Backzeit beträgt erfahrungsgemäß ca. 6 Minuten.",
+        "imageName": "hawaiitoast.jpg",
+        "ingredients": [
+            { "name": "4 Scheiben Ananas aus der Dose" },
+            { "name": "4 Scheiben Toastbrot" },
+            { "name": "4 Messerspitzen Margarine (Sonnenblumenmargarine)" },
+            { "name": "2 Scheiben Schinken, gekocht" },
+            { "name": "4 Scheiben Käse (quadratischer Emmentaler)" }
+        ],
+        "tags": [
+            { "name": "Schnell" }
+        ]
+    },
+    
+    {
+        "title": "Cheese Burger",
+        "recipeDescription": "Den Zwiebel fein schneiden, und in Pfanne Karamelisieren. Herausnehmen und Rinderfaschiertes formen und braten. Die Laibchen in Öl 6-8 Minuten braten, nach dem ersten wernden Cheddar auf die Pattys legen. In der gleichen Pfanne bacon braten. Die Brioche Brötchen der Länge nach halbieren und kurz in Butter anbraten. Die Tomate und die Essiggurke in Scheiben schneiden und Tomate salzen. Brötchen erst mit Salatblatt belegen, dann den Patty und dann Tomate.",
+        "imageName": "cheeseburger.jpg",
+        "ingredients": [
+            { "name": "500 g Rinderfaschiertes" },
+            { "name": "Bacon" },
+            { "name": "1 Zwiebel" },
+            { "name": "1 EL Burgersauce" },
+            { "name": "1 Prise Salz" },
+            { "name": "1 Prise Pfeffer" },
+            { "name": "4 Semmeln" },
+            { "name": "1 Essiggurke" },
+            { "name": "4 Scheiben Cheddar" },
+            { "name": "1 Tomate" },
+            { "name": "1 Salatblätter" },
+            { "name": "2 EL Öl" }
+        ],
+        "tags": [
+        ]
+    },
+    
+    {
+        "title": "Halloumi Burger",
+        "recipeDescription": "Halloumischeiben marinieren, Auberginen- und Zucchinischeiben anbraten, Honig-Senf-Soße zubereiten, Burgerbrötchen rösten und belegen. Radicchio, Minze und weitere Zutaten hinzufügen, abschließen und genießen.",
+        "imageName": "halloumi_burger.jpg",
+        "ingredients": [
+            { "name": "500 g Halloumi" },
+            { "name": "1 rote Zwiebel" },
+            { "name": "½ Zucchini" },
+            { "name": "½ Aubergine" },
+            { "name": "175 ml Pflanzenöl" },
+            { "name": "1 TL Currypulver" },
+            { "name": "100 g Senf" },
+            { "name": "30 g Zucker" },
+            { "name": "10 g Honig" },
+            { "name": "4 Burgerbrötchen" },
+            { "name": "4 Blätter Radicchio" },
+            { "name": "2 Zweige Minze" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "Pflanzenöl (zum Anbraten)" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Sommerrollen mit Erdnusssauce",
+        "recipeDescription": "Sommerrollen aus Reispapier, gefüllt mit Gemüse, Tofu und Kräutern, serviert mit Erdnusssauce oder einer nussfreien Dipping-Sauce.",
+        "imageName": "sommerrollen.jpg",
+        "ingredients": [
+            { "name": "12 runde Reisteigplatten (22 cm Durchmesser)" },
+            { "name": "100 g dünne Reisnudeln oder Glasnudeln" },
+            { "name": "150 g geräucherter Tofu, in kleine Stifte geschnitten" },
+            { "name": "½ Gurke, in kleine Stifte geschnitten" },
+            { "name": "2 kleine Karotten, in kleine Stifte geschnitten" },
+            { "name": "1 gelbe Paprika (oder rot/orange), in dünne Streifen geschnitten" },
+            { "name": "150 g Rotkohl, dünn gehobelt" },
+            { "name": "1 Handvoll Minzblätter oder andere Kräuter" },
+            { "name": "1 Rezept Erdnusssauce oder nussfreie Dipping-Sauce (siehe Anleitung)" },
+            { "name": "Geröstete & gesalzene Erdnüsse, gehackt (zum Servieren, optional)" },
+            { "name": "Sesam (zum Servieren, optional)" },
+            { "name": "Frische Limetten (zum Servieren, optional)" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Vegan" },
+            { "name": "Asiatisch" },
+        ]
+    },
+    
+    {
+        "title": "Nudelsalat mit Tomaten und Mozzarella",
+        "recipeDescription": "Ein frischer Nudelsalat mit passierten Tomaten, Rucola, getrockneten Tomaten, Cherrytomaten und Mozzarella.",
+        "imageName": "nudelsalat.jpg",
+        "ingredients": [
+            { "name": "350 g Nudeln" },
+            { "name": "150 g passierte Tomaten" },
+            { "name": "4 EL Balsamico" },
+            { "name": "4 EL Olivenöl" },
+            { "name": "1 TL Zucker" },
+            { "name": "Salz & Pfeffer" },
+            { "name": "100 g getrocknete Tomaten in Öl, abgetropft" },
+            { "name": "2 große Handvoll Rucola" },
+            { "name": "250 g Cherrytomaten" },
+            { "name": "1 Mozzarella" }
+        ],
+        "tags": [
+            { "name": "Salat" },
+            { "name": "Vegetarisch" },
+            { "name": "Schnell" }
+        ]
+    },
+    
+    {
+        "title": "Fladenbrot mit Feta-Paprika Sauce",
+        "recipeDescription": "Tomaten Gurken Salat machen mit Koriander und Zitronensaft. Feta mit Paprika in den Ofen und dann zu einer Sauce mixen. Falafel anbraten in der pfanne. Fladenbrot belegen mit allen Zutaten.",
+        "imageName": "fladenbrot.jpg",
+        "ingredients": [
+            { "name": "Fladenbrot" },
+            { "name": "Tomaten" },
+            { "name": "Gurke" },
+            { "name": "Koriander" },
+            { "name": "Zitronensaft" },
+            { "name": "Salz & Pfeffer" },
+            { "name": "Paprika" },
+            { "name": "Feta" },
+            { "name": "Falafel" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Schnell" }
+        ]
+    },
+    
+    {
+        "title": "Pho",
+        "recipeDescription": "Pho Brühe selber machen: Das Öl in einem großen Topf erhitzen. Zwiebeln, Knoblauch, und Ingwer hinzugeben und ca. 3 Minuten bei hoher Hitze anrösten. Dann Karotten, Petersilienwurzel, Sternanis, Nelken, und Zimt dazugeben und für weitere ca. 3 Minuten anrösten, bis alles gut duftet. Mit Gemüsebrühe ablöschen. Misopaste, Tamari und Sriracha hinzufügen. Den Topf mit einem Deckel abdecken und für mindestens 45 Minuten bei niedriger Hitze köcheln lassen - je länger umso mehr Aroma. Anschließend die Brühe durch ein feines Sieb in einen anderen Topf gießen, dabei Gemüse und Gewürze auffangen. Abschmecken und bei Bedarf nachwürzen. \n\nKnuspriger Tofu: Den Ofen auf 200 °C Ober-/Unterhitze vorheizen und ein Backblech mit Backpapier auslegen. Den Tofu in Küchentücher wickeln und sehr trocken pressen. Anschließend in Würfel schneiden, nochmal trocken tupfen und in eine Schüssel geben. Die Tofuwürfel zuerst mit Öl und No-Fish-Sauce vermengen. Dann die Maisstärke darüber streuen und nochmal durchmischen, bis alles bedeckt ist. Die marinierten Tofuwürfel mit genügend Abstand zueinander auf dem vorbereiteten Backblech verteilen und 25-30 Minuten goldbraun backen, nach 15 Minuten einmal durchmischen. Alternativ kann man die Tofuwürfel auch in einer Pfanne 7-8 Minuten knusprig braten. \n\nPho Suppe: Die Reisnudeln gemäß Packungsanweisung kochen. Anschließend unter kaltem Wasser abspülen und abtropfen lassen. Etwas Öl in einer Pfanne erhitzen und die Shiitake Pilze 2-3 Minuten scharf anbraten. Dann mit dem Pak Choi in die Pho Brühe geben und zusammen nochmals kurz aufkochen. Reisnudeln in Schüsseln verteilen und mit der Suppe begießen. Den knusprigen Tofu darauf verteilen und nach Belieben mit Jalapeños, Koriander, Minze und Limettenspalten garnieren und genießen.",
+        "imageName": "vegane_pho_suppe.jpg",
+        "ingredients": [
+            { "name": "1 EL Öl" },
+            { "name": "1 Zwiebel, gevierteilt" },
+            { "name": "4 Knoblauchzehen, zerdrückt" },
+            { "name": "5 cm Stück Ingwer, in dünne Scheiben geschnitten" },
+            { "name": "1 große Karotte, in Scheiben geschnitten" },
+            { "name": "120 g Petersilienwurzel oder Sellerie, in Scheiben geschnitten" },
+            { "name": "3 Sternanis" },
+            { "name": "4 Nelken" },
+            { "name": "1 Zimtstange" },
+            { "name": "2 L Gemüsebrühe" },
+            { "name": "1 EL Misopaste" },
+            { "name": "1 EL Tamari oder Soja-Sauce" },
+            { "name": "1 TL Sriracha, oder nach Geschmack" },
+            { "name": "400 g Natur-Tofu" },
+            { "name": "1 EL Sesam- oder Erdnussöl" },
+            { "name": "1 EL Vegane No-Fish-Sauce oder Tamari" },
+            { "name": "1 EL Maisstärke" },
+            { "name": "200 g Reisnudeln" },
+            { "name": "100 g Shiitake Pilze, ganz oder in Scheiben geschnitten" },
+            { "name": "2 Pak Choi, halbiert" },
+            { "name": "Jalapeños oder grüne Peperonie, in Scheiben geschnitten" },
+            { "name": "1 Bund Koriander, grob gehackt" },
+            { "name": "1 Bund Minze, grob gehackt" },
+            { "name": "Limetten" }
+        ],
+        "tags": [
+            { "name": "Vegan" },
+            { "name": "Asiatisch" },
+            { "name": "Suppe" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Dumplings (Gyoza)",
+        "recipeDescription": "Das Gemüse sehr klein schneiden und das Öl in einer großen Pfanne erhitzen. Champignons, Zwiebeln und Karotten dazugeben und 2-3 Minuten braten, bis es leicht gebräunt ist. Dann Lauch und Kohl mit etwas Salz hinzugeben und weitere 5-7 Minuten dünsten, bis das Gemüse weich und durchgegart ist, dabei gelegentlich umrühren und bei Bedarf etwas Wasser hinzugeben. Nun Knoblauch, Ingwer und Gewürze hinzufügen und eine weitere Minute dünsten, damit sich die Aromen entfalten können. Anschließend zum Abkühlen beiseitestellen. Jeweils einen gehäuften Teelöffel Füllung in die Mitte der Teigkreise platzieren. Die äußeren Ränder mit etwas Wasser befeuchten und den Dumpling so formen, dass ein Fächermuster entsteht. Achte bitte darauf, die Dumplings gut zu verschließen. Diesen Vorgang wiederholen, bis die Wrapper aufgebraucht sind. Das Öl in einer Pfanne bei mittlerer Hitze erhitzen. Die Gyoza darin platzieren und 2-3 Minuten lang braten oder bis die Böden gut gebräunt sind. Dann etwa 1/4 Tasse Wasser eingießen und mit einem Deckel abdecken. 7-8 Minuten lang dämpfen oder bis das Wasser verdampft ist. Alle Zutaten für die Sauce verrühren. Die Gyoza mit Sesam und frischen Frühlingszwiebeln bestreuen und mit der Sauce servieren. Genießen!",
+        "imageName": "dumplings.jpg",
+        "ingredients": [
+            { "name": "1-2 EL Sesamöl" },
+            { "name": "Dumplings Wrapper" },
+            { "name": "2 Knoblauchzehen, gehackt" },
+            { "name": "1 EL Ingwer, gehackt" },
+            { "name": "1 Zwiebel, gewürfelt" },
+            { "name": "1 Karotte (100 g), geraspelt" },
+            { "name": "200 g Pilze, fein gehackt" },
+            { "name": "½ Stange Lauch (60 g), fein gehackt" },
+            { "name": "200 g Kohl, fein gehackt" },
+            { "name": "2 EL Sojasauce" },
+            { "name": "1 EL Reisessig" },
+            { "name": "Salz und Pfeffer" },
+            { "name": "1 TL Sriracha oder Sambal Oelek (optional)" },
+            { "name": "3 EL Sojasauce (für die Sauce)" },
+            { "name": "1 EL Reisessig (für die Sauce)" },
+            { "name": "1 EL Agavendicksaft (für die Sauce)" },
+            { "name": "¼ TL Sesamöl (für die Sauce)" },
+            { "name": "½ TL Sriracha oder Sambal Oelek (optional, für die Sauce)" },
+            { "name": "1 EL geröstete Sesamkörner (zum Garnieren)" },
+            { "name": "2 EL Frühlingszwiebeln, in Scheiben geschnitten (zum Garnieren)" }
+        ],
+        "tags": [
+            { "name": "Vegan" },
+            { "name": "Asiatisch" },
+            { "name": "Snack" }
+        ]
+    },
+    
+    {
+        "title": "Caprese Sandwich",
+        "recipeDescription": "Die Ciabattabrötchen aufschneiden und Pesto auf den Böden verteilen. Mozzarella in Scheiben schneiden und auf das Pesto geben, die getrockneten Tomaten abtropfen lassen und geschnitten darüber geben. Die Brötchenhälften mit Basilikum, Salz, Pfeffer und Crema di Balsamico verfeinern, zusammenklappen und genießen.",
+        "imageName": "caprese_sandwich.jpg",
+        "ingredients": [
+            { "name": "4 Ciabattabrötchen" },
+            { "name": "4 EL Pesto" },
+            { "name": "250 g Mozzarella" },
+            { "name": "100 g getrocknete Tomaten, in Öl" },
+            { "name": "4 Zweige Basilikum" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "4 TL Crema di Balsamico" }
+        ],
+        "tags": [
+            { "name": "Snack" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Rucola-Tomaten-Sandwich",
+        "recipeDescription": "Für das Rucola-Tomaten-Sandwich den Rucola waschen und trocken tupfen. Beide Scheiben Sandwichbrot mit Frischkäse nach Belieben bestreichen (am besten nicht zu viel). Dann das Pesto auf beiden Seiten gleichmäßig verteilen. Auf eine Sandwich-Scheibe die getrockneten Tomaten verteilen, wer möchte, kann diese vorher klein würfeln oder in Streifen schneiden. Auf die andere Scheibe den Rucola verteilen. Falls die Stiele zu grob sind, vorher am besten abschneiden. Zusammenklappen, mit einem Messer diagonal halbieren und servieren.",
+        "imageName": "rucola_tomaten_sandwich.jpg",
+        "ingredients": [
+            { "name": "2 Scheiben Sandwichbrot" },
+            { "name": "1 TL Basilikumpesto" },
+            { "name": "200 g Frischkäse, natur" },
+            { "name": "50 g Rucola, klein" },
+            { "name": "5 Stk getrocknete Tomaten, aus dem Beutel" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Snack" }
+        ]
+    },
+    
+    {
+        "title": "Thunfisch-Kichererbsen Sandwich",
+        "recipeDescription": "Zuerst die rote Zwiebel, den Sellerie und die Gewürzgurken grob hacken und zusammen mit den restlichen Zutaten in eine Küchenmaschine (Zerkleinerer) geben. Die Mischung etwa 8-12 Mal pulsieren, bis sie gut zerkleinert ist, aber immer noch eine leicht stückige Konsistenz hat. Dann die Mischung auf Sandwichbrot legen und optional mit Salat und Gemüse belegen.",
+        "imageName": "thunfisch_kichererbsen_sandwich.jpg",
+        "ingredients": [
+            { "name": "Salat" },
+            { "name": "Tomaten" },
+            { "name": "Sandwichbrot" },
+            { "name": "250 g Kichererbsen (gekocht oder aus der Dose)" },
+            { "name": "1 Stange Staudensellerie" },
+            { "name": "1 rote Zwiebel" },
+            { "name": "Gewürzgurken" },
+            { "name": "Kapern (optional)" },
+            { "name": "Vegane Mayonnaise" },
+            { "name": "1 EL Limettensaft oder Zitronensaft" },
+            { "name": "1 TL Dijon-Senf" },
+            { "name": "Nori-Blätter oder Dulse-Flocken" },
+            { "name": "1/2 TL getrockneter Dill" },
+            { "name": "Salz und schwarzer Pfeffer" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Vegan" },
+            { "name": "Snack" }
+        ]
+    },
+    
+    {
+        "title": "Quinoa Salat",
+        "recipeDescription": "Quinoa mit kaltem Wasser abspülen, in einem Topf mit der doppelten Menge Wasser zum Kochen bringen und bei kleiner Hitze ca. 10 Minuten kochen. Währenddessen Mango schälen, vom Stein schneiden und Fruchtfleisch würfeln. Gurke, Tomaten und Paprikaschote putzen, waschen und in Stücke schneiden. Feldsalat waschen und trockenschleudern. Zwiebel schälen und hacken. Minze waschen, trocken schütteln, Blätter abzupfen und in Streifen schneiden. Feta würfeln. Quinoa abgießen, abtropfen lassen und in eine Schüssel geben. Mango, Gurke, Tomaten, Paprika, Feldsalat, Zwiebel, Minze und Feta zugeben und mischen. Salat mit Burgl's Traubenkernöl und Apfelessig abschmecken.",
+        "imageName": "quinoa_salat.jpg",
+        "ingredients": [
+            { "name": "200 g Quinoa" },
+            { "name": "1 Mango" },
+            { "name": "1 Salatgurke" },
+            { "name": "3 Tomaten" },
+            { "name": "1 Paprika, rot" },
+            { "name": "150 g Feldsalat" },
+            { "name": "1 rote Zwiebel" },
+            { "name": "2 Stängel Minze" },
+            { "name": "150 g Feta (45% Fett i. Tr.)" },
+            { "name": "2 EL Traubenkernöl" },
+            { "name": "1 EL Apfelessig" }
+        ],
+        "tags": [
+            { "name": "Salat" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Rote Beete Salat",
+        "recipeDescription": "Zuerst holst du 500 g Rote Bete aus der Vakuumverpackung und schneidest sie in kleine Würfel oder wahlweise in dünne Scheiben. Am besten verwendest du hierfür Einmalhandschuhe oder du verteilst etwas Speiseöl in den Händen, damit sie nicht so rot einfärben. Die 200 g Feta schneidest du in kleine Würfel. Die 3 Frühlingszwiebeln wäschst du gut ab, schneidest die Wurzelansätze ab und schneidest sie mit Grün in feine Ringe. Die 30 g Walnusshälften hackst du fein. Für das Rote Bete Salat Dressing vermengst du in einer Schüssel mit dem Schneebesen 4 EL Olivenöl, 2 EL weißen oder dunklen Balsamico-Essig, 1 TL Honig und schmeckst mit Salz und schwarzem Pfeffer aus der Mühle ab. Im Anschluss vermengst du alle Zutaten mit dem Dressing ODER richtest die Zutaten auf vier Tellern an und verteilst das Dressing darüber, das bietet sich vor allem an, wenn du die Rote Bete in Scheiben geschnitten hast. Guten Appetit!",
+        "imageName": "rote_beete_feta_salat.jpg",
+        "ingredients": [
+            { "name": "500 g Rote Beete, vakuumiert oder frisch gekocht" },
+            { "name": "200 g Feta" },
+            { "name": "30 g Walnusshälften" },
+            { "name": "3 Frühlingszwiebeln" },
+            { "name": "4 EL Olivenöl" },
+            { "name": "2 EL weißer oder dunkler Balsamico Essig" },
+            { "name": "1 TL Honig" },
+            { "name": "Salz" },
+            { "name": "Schwarzer Pfeffer aus der Mühle" }
+        ],
+        "tags": [
+            { "name": "Salat" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Gurkensalat",
+        "recipeDescription": "Geschälte Gurken in Scheiben hobeln, in eine Schüssel geben, gut einsalzen und etwa 20 Minuten ziehen lassen. Danach Gurken gut ausdrücken und in eine Salatschüssel geben. Dill fein schneiden und geschälten Knoblauch und Zwiebel hacken. Für das Dressing Sauerrahm, Essig, Öl, Zwiebeln, Knoblauch und Dill vermischen und über die Gurken leeren. Verrühren und etwa 10 Minuten ziehen lassen.",
+        "imageName": "gurkensalat.jpg",
+        "ingredients": [
+            { "name": "2 Salatgurken" },
+            { "name": "1 Prise Salz" },
+            { "name": "1 Becher Sauerrahm" },
+            { "name": "4 EL Balsamico" },
+            { "name": "1 EL Öl" },
+            { "name": "1 Zwiebel" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "1 Bund Dill" }
+        ],
+        "tags": [
+            { "name": "Salat" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Tomatensalat",
+        "recipeDescription": "Tomaten waschen, Stilansätze entfernen und mundgerecht würfeln. Basilikum waschen, trocken schütteln und in Streifen schneiden. Für das Dressing Honig, Olivenöl, Balsamico, Salz und Pfeffer in einer großen Schüssel verrühren. Tomaten und Basilikum unterheben und mit Salz und Pfeffer abschmecken. Vor dem Verzehr am besten mindestens 2 Stunden im Kühlschrank ziehen lassen. Noch einmal abschmecken und mit Ciabatta genießen.",
+        "imageName": "tomatensalat.jpg",
+        "ingredients": [
+            { "name": "800 g Tomaten" },
+            { "name": "1 Handvoll Basilikum" },
+            { "name": "1 EL Honig" },
+            { "name": "4 EL Olivenöl" },
+            { "name": "2 EL Aceto Balsamico di Modena" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" }
+        ],
+        "tags": [
+            { "name": "Salat" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Wassermelonen-Feta Salat",
+        "recipeDescription": "Für das Dressing die Limette auspressen und den Saft mit Ahornsirup, Salz und Pfeffer verrühren. Die Wassermelone vierteln, schälen und das Fruchtfleisch in mundgerechte Stücke schneiden. Dann in eine Schüssel geben und mit dem Dressing mischen. Den Feta zerbröseln und unterheben. Die Minzblätter von den Stielen zupfen und den Salat mit den Blättern garnieren.",
+        "imageName": "wassermelonen_feta_salat.jpg",
+        "ingredients": [
+            { "name": "1 kleine Wassermelone" },
+            { "name": "150 g Feta" },
+            { "name": "4 Stiele Minze" },
+            { "name": "1 Limette" },
+            { "name": "1 TL Ahornsirup" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" }
+        ],
+        "tags": [
+            { "name": "Salat" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Tomate Mozzarella",
+        "recipeDescription": "Die Tomaten waschen und in Scheiben schneiden, dabei die Stielansätze entfernen. Den Mozzarella gut abtropfen lassen und ebenfalls in Scheiben schneiden. Nun die Tomatenscheiben abwechselnd mit den Mozzarellascheiben auf einer großen Platte oder einem Teller anrichten. Salzen, pfeffern und mit ein wenig Öl beträufeln. Dann das Basilikum waschen, trocken schütteln, die Blätter in feine Streifen schneiden, über den Tomaten- und Mozzarellascheiben verteilen und nochmals mit Olivenöl beträufeln. Kurz vor dem Servieren noch mit ein paar Spritzern Balsamico-Essig beträufeln.",
+        "imageName": "tomate_mozzarella.jpg",
+        "ingredients": [
+            { "name": "4 Stk reife Fleischtomaten" },
+            { "name": "4 EL Olivenöl" },
+            { "name": "300 g Mozzarella" },
+            { "name": "1 Bund Basilikum" },
+            { "name": "1 Schuss Balsamico" },
+            { "name": "1 Prise Pfeffer" },
+            { "name": "1 Prise Salz" }
+        ],
+        "tags": [
+            { "name": "Salat" },
+            { "name": "Snack" },
+            { "name": "Italienisch" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Bruschetta",
+        "recipeDescription": "Die Tomaten halbieren und in kleine Würfel schneiden. Den Knoblauch sehr klein schneiden und zu den Tomatenstücken geben. Mit gut 3 EL Öl sowie 1 - 2 TL Tomatengewürzsalz mischen. Mindestens 2 Stunden im Kühlschrank ziehen lassen. Den Backofen auf 180 °C - 200 °C Umluft vorheizen. Die Tomatenstücke aus dem Kühlschrank nehmen. Das Ciabatta in ca. 1 cm dicke Scheiben schneiden und diese mit dem restlichen Öl beträufeln. Ein Backpapier auf ein Backofengitter legen und die Ciabattascheiben darauf ausbreiten. Im vorgeheizten Backofen auf der mittleren Einschubleiste ca. 5 - 8 Minuten goldbraun backen - nicht zu dunkel, sonst werden sie zu hart. Die Ciabattascheiben aus dem Ofen nehmen und mit je 0,5 - 1 EL der Tomaten-Knoblauch-Mischung pro Scheibe belegen. Optional noch mit Burrata belegen.",
+        "imageName": "bruschetta.jpg",
+        "ingredients": [
+            { "name": "Cherrytomaten" },
+            { "name": "2 Knoblauchzehen" },
+            { "name": "5 EL Olivenöl oder Salatöl" },
+            { "name": "2 Ciabatta" }
+        ],
+        "tags": [
+            { "name": "Italienisch" },
+            { "name": "Snack" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Garlic-Butter-Naan",
+        "recipeDescription": "Vermische warmes Wasser, Zucker und die Trockenhefe in einer Schüssel und lasse die Mischung etwa 10 Minuten stehen, bis sie schaumig ist. Füge dann das Mehl, den Joghurt, Salz und 1 Esslöffel geschmolzene Knoblauchbutter hinzu und vermische alles zu einem glatten Teig. Den Teig abdecken und an einem warmen Ort für 2 Stunden gehen lassen. Den Teig in kleine Portionen teilen, zu Kugeln formen und weitere 30 Minuten ruhen lassen. Anschließend die Teigstücke dünn ausrollen. In einer sehr heißen, trockenen Gusseisenpfanne jede Teigscheibe etwa 1 Minute pro Seite backen, bis sie goldbraun wird. Zum Schluss das warme Naan mit der Knoblauchbutter bestreichen und servieren. (https://www.youtube.com/watch?v=wmbpOb9neLY)",
+        "imageName": "butter_naan.jpg",
+        "ingredients": [
+            { "name": "1/2 Tasse warmes Wasser" },
+            { "name": "1 Teelöffel Zucker" },
+            { "name": "1 Päckchen Trockenhefe" },
+            { "name": "1/4 Tasse Naturjoghurt" },
+            { "name": "ca. 2 Tassen Brotmehl (mehr nach Bedarf)" },
+            { "name": "1 Teelöffel koscheres Salz (oder 1/2 TL feines Salz)" },
+            { "name": "1 Esslöffel Knoblauchbutter" }
+        ],
+        "tags": [
+            { "name": "Indisch" },
+            { "name": "Snack" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Käsespätzle",
+        "recipeDescription": "Für den Spätzleteig Eier, Mehl, einen Schuss Öl und Salz in eine Schüssel geben und mit einem Knethaken gut verrühren. Nach und nach Wasser hinzufügen, bis eine zähflüssige Teigmasse entsteht. In einem Topf Salzwasser zum Kochen bringen und den Teig mithilfe eines Spätzlehobels oder eines Spätzlesiebs löffelweise langsam ins kochende Wasser gleiten lassen. Die Spätzle so lange kochen, bis sie an der Oberfläche schwimmen. Danach aus dem Wasser nehmen und in eine Schüssel geben. Den Käse fein reiben und unter die fertigen Spätzle mischen. Gut durchmischen und bei Bedarf mit Salz und Pfeffer abschmecken. Optional können die Käsespätzle noch kurz im Backofen erwärmt werden, damit der Käse vollständig schmilzt. Die Zwiebeln schälen, fein schneiden und in einer Pfanne mit einem Schuss Öl dunkelbraun anbraten. Vor dem Servieren die gebratenen Zwiebeln über die Käsespätzle geben.",
+        "imageName": "kaesespaetzle.jpg",
+        "ingredients": [
+            { "name": "5 Eier" },
+            { "name": "400 g Mehl" },
+            { "name": "1 Schuss Öl" },
+            { "name": "200 ml Wasser" },
+            { "name": "200 g Käse" },
+            { "name": "1 Teelöffel Salz" },
+            { "name": "1 Prise Pfeffer" },
+            { "name": "2 Zwiebeln" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+        "title": "Panini",
+        "recipeDescription": "Wasche die Tomaten und den Basilikum. Schneide die Tomaten in Scheiben und hacke den Basilikum grob. Schäle den Knoblauch und gib ihn zusammen mit dem Basilikum, dem Olivenöl, dem Parmesan und etwas Salz und Pfeffer in einen Mixer. Röste die Pinienkerne kurz in einer Pfanne an und gib sie ebenfalls in den Mixer. Mixe alles zu einem glatten Pesto. Lass den Mozzarella abtropfen und schneide ihn in Scheiben. Schneide die Paninis mit einem Brotmesser auf. Bestreiche die Oberseite der Panini mit dem Pesto, belege die andere Hälfte mit einer Schicht Tomaten und einer Schicht Mozzarella. Gib etwas Balsamico darüber und würze es mit Salz und Pfeffer. Klappe das Panini zusammen und grille es für 3 Minuten auf dem Kontaktgrill. Fertig!",
+        "imageName": "panini.jpg",
+        "ingredients": [
+            { "name": "Brot" },
+            { "name": "200 g Tomaten" },
+            { "name": "2 Bund Basilikum" },
+            { "name": "1 Knoblauchzehe" },
+            { "name": "5 EL Olivenöl" },
+            { "name": "30 g Parmesan" },
+            { "name": "30 g Pinienkerne" },
+            { "name": "100 g Mozzarella" },
+            { "name": "Salz" },
+            { "name": "Pfeffer" },
+            { "name": "Etwas Balsamico" }
+        ],
+        "tags": [
+            { "name": "Vegetarisch" },
+            { "name": "Italienisch" },
+            { "name": "Snack" }
+        ]
+    },
+    
+    {
+        "title": "Banh Mi",
+        "recipeDescription": "Die Gurke waschen und mit einem Sparschäler längs in dünne Scheiben schneiden. Tomaten waschen und in dünne Scheiben schneiden. Die Frühlingszwiebel waschen und in feine Ringe schneiden. Dann die Kräuter waschen, trocken schütteln und grob hacken. Die Karotte schälen und in feine Juliennestreifen schneiden. Zucker, Essig und Salz in einer Schüssel verrühren, bis sich der Zucker aufgelöst hat. Die Karottenstreifen hinzugeben und sehr sanft kneten. Bis zur Verwendung 15 Minuten stehen lassen. Die Baguettebrötchen nach Belieben aufbacken (sie sollten außen knusprig sein), längs bis fast zum Rand aufschneiden (nicht durchschneiden!) und wie folgt füllen: die Schnittflächen mit dunkler Sojasauce beträufeln und mit der Umami-Paste bestreichen, dann mit Gurke, Tomaten, marinierten Karottenstreifen und Tofustücken belegen, mit Chilisauce würzen und zum Schluss Frühlingszwiebel und Kräuter darauf verteilen. Falls die Füllung überquillt, das Baguettebrötchen in einer Hand halten und mit der anderen Hand mithilfe von zwei Essstäbchen die Füllung hineindrücken. Beide Banh-Mi-Baguettes quer halbieren oder in je 4 Stücke schneiden und genießen.",
+        "imageName": "banh_mi.jpg",
+        "ingredients": [
+            { "name": "1 Salatgurke" },
+            { "name": "Tomaten" },
+            { "name": "1 Frühlingszwiebel" },
+            { "name": "1 Bund Asiatische Kräuter (z.B. Koriander, Thai-Basilikum, vietnamesischer Koriander, Thai-Minze)" },
+            { "name": "1 Karotte" },
+            { "name": "3 EL Zucker" },
+            { "name": "3 EL weißer Reisessig" },
+            { "name": "0.25 TL Salz" },
+            { "name": "2 Weizen-Baguettebrötchen" },
+            { "name": "3 TL Dunkle Sojasauce" },
+            { "name": "3 EL Umami-Paste" },
+            { "name": "4 Scheiben 5-Gewürze-Tofu" },
+            { "name": "1 TL Sriracha Chilisauce" }
+        ],
+        "tags": [
+            { "name": "Asiatisch" },
+            { "name": "Snack" },
+            { "name": "Vegetarisch" }
+        ]
+    },
+    
+    {
+      "title": "Banana Pancake",
+      "recipeDescription": "Teig vorbereiten: Das Mehl in eine große Schüssel sieben. In der Mitte eine Mulde formen und das Ei hineingeben. Einen Teil der Milch hineingießen und beginnen, das Ei mit einem Schneebesen zu verrühren, dabei nach und nach mehr Mehl einarbeiten. Die restliche Milch schrittweise hinzufügen, bis ein glatter Teig entsteht. Salz, Zimt und geschmolzene Butter unterrühren. Pfanne vorbereiten: Eine mittelgroße, beschichtete Pfanne (ca. 20 cm Durchmesser) bei mittlerer bis hoher Hitze erhitzen. Einen Klecks Butter in die Pfanne geben und schwenken, bis der Boden bedeckt ist. Bananen karamellisieren: 1 Teelöffel Zucker gleichmäßig auf den Pfannenboden streuen. Ein Viertel der Bananenscheiben auf dem Zucker anordnen (für eine schöne Optik in Kreisen oder einfach verstreut). Die Bananen 2–3 Minuten braten, bis sie anfangen zu karamellisieren (mit der Messerspitze überprüfen). Anschließend ein Viertel der Kokosraspeln darüber streuen und weitere 1 Minute braten. Pfannkuchenteig hinzufügen: Ein Viertel des Teigs über die Bananen und Kokosraspeln gießen. Die Pfanne leicht schwenken, damit der Teig die Bananen gleichmäßig bedeckt. 2–3 Minuten braten, bis der Teig fast durchgegart ist. Den Pfannkuchen vorsichtig mit einem Palettenmesser oder Spatel wenden und weitere 1–2 Minuten braten, bis er goldbraun ist. Wiederholen und servieren: Den Pfannkuchen warm im Ofen auf niedriger Temperatur halten, während die restlichen drei Pfannkuchen zubereitet werden. Warm mit Ahornsirup oder Kokossirup servieren.",
+      "imageName": "banana_pancake.jpg",
+      "ingredients": [
+        { "name": "150 g Mehl" },
+        { "name": "1 Ei" },
+        { "name": "300 ml Milch" },
+        { "name": "1 Prise Salz" },
+        { "name": "¼ TL gemahlener Zimt" },
+        { "name": "1 EL geschmolzene Butter" },
+        { "name": "4 TL heller Muscovado-Zucker" },
+        { "name": "2 große Bananen, in dünne Scheiben geschnitten" },
+        { "name": "4 EL Kokosraspeln" },
+        { "name": "Ahornsirup oder Kokossirup zum Servieren" }
+      ],
+      "tags": [
+        { "name": "Frühstück" },
+        { "name": "Süß" }
+      ]
+    },
+
+    {
+      "title": "Zimtschnecken",
+      "recipeDescription": "Teig vorbereiten: In einer Rührschüssel des Standmixers Mehl, Zucker und feines Meersalz vermischen. Die weiche Butter hinzufügen und mit zwei Gabeln einarbeiten. In einem separaten Behälter lauwarme Milch und Trockenhefe verrühren. Mit dem Knethaken des Standmixers auf mittlerer Geschwindigkeit die Hefe-Mischung, die Eier und das Eigelb einarbeiten. Den Teig auf eine leicht bemehlte Arbeitsfläche geben und 30–60 Sekunden kneten. Anschließend in eine gefettete Schüssel geben, mit Frischhaltefolie abdecken und 90 Minuten gehen lassen. Füllung: In einer kleinen Schüssel braunen Zucker, Muscovado-Zucker und Zimt vermischen. Den Teig auf eine leicht bemehlte Fläche geben und zu einem großen Rechteck ausrollen. Die weiche Butter gleichmäßig auf dem Teig verstreichen und die Zimt-Zucker-Mischung darüber streuen. Den Teig von unten nach oben fest aufrollen und in 2 cm dicke Scheiben schneiden. Backen: Eine 23x33 cm große Backform einfetten und die Zimtschnecken darin anordnen. Mit Frischhaltefolie abdecken und bei Raumtemperatur 30–45 Minuten gehen lassen. Im vorgeheizten Ofen bei 190 °C für 15–20 Minuten backen. In der Form 15 Minuten abkühlen lassen. Glasur: Frischkäse cremig schlagen und Puderzucker einarbeiten, bis die Masse glatt ist. Milch hinzufügen und eine halbe ausgekratzte Vanilleschote einrühren. Die Glasur über die Zimtschnecken geben und servieren. (https://www.youtube.com/watch?v=f6kzypYDLRg&t=381s)",
+      "imageName": "zimtschnecken_vanille_glaze.jpg",
+      "ingredients": [
+        { "name": "4 Tassen (580 g) Mehl" },
+        { "name": "1/2 Tasse (107 g) Zucker" },
+        { "name": "3/4 TL (6 g) feines Meersalz" },
+        { "name": "1/3 Tasse (84 g) Butter" },
+        { "name": "1 Tasse (235 g) lauwarme Milch" },
+        { "name": "2 1/4 TL (7 g) Trockenhefe" },
+        { "name": "2 Eier" },
+        { "name": "1 Eigelb" },
+        { "name": "1 Tasse (225 g) brauner Zucker" },
+        { "name": "1 EL (14 g) Muscovado-Zucker" },
+        { "name": "2,5 EL (17 g) Zimt" },
+        { "name": "1/3 Tasse (84 g) Butter" },
+        { "name": "4 oz (115 g) Frischkäse" },
+        { "name": "3/4 Tasse (90 g) Puderzucker" },
+        { "name": "1 Vanilleschote" },
+        { "name": "3 EL (45 ml) Vollmilch" }
+      ],
+      "tags": [
+        { "name": "Gebäck" },
+        { "name": "Süß" }
+      ]
+    },
+    
+    {
+      "title": "Schokoladen-Cookies",
+      "recipeDescription": "Für die Cookies den Ofen auf 190 Grad Umluft vorheizen. Die Butter mit dem braunen, weißen Zucker und Vanillezucker ca. 2 Minuten mit dem Rührgerät hell-cremig aufschlagen, dann die Eier nach und nach einrühren. Mehl mit Natron und Salz vermischen. Die Mehlmischung zur Butter-Eier-Mischung geben und mit einem Kochlöffel nur kurz vermischen, bis das Mehl verarbeitet ist. Jetzt 250 g der Schokotröpfchen zum Teig geben und mithilfe des Kochlöffels untermischen. Zwei Backbleche mit Backpapier belegen. Jeweils einen schwach gehäuften Esslöffel Teig aus der Schüssel nehmen und mit den Händen zu einer kleinen Kugel rollen. Die Kugel auf das Backblech setzen und leicht platt drücken. So alle weiteren Kugeln rollen und mit etwas Abstand zueinander auf den Blechen verteilen. Die Cookies laufen beim Backen noch auseinander.",
+      "imageName": "schokoladen_cookies.jpg",
+      "ingredients": [
+        { "name": "250 g weiche Butter" },
+        { "name": "100 g brauner Zucker" },
+        { "name": "130 g weißer Zucker" },
+        { "name": "1 Pck. Vanillezucker" },
+        { "name": "2 Eier (Gr. M)" },
+        { "name": "330 g Weizenmehl (Type 405)" },
+        { "name": "1 TL Natron" },
+        { "name": "1 Prise Salz" },
+        { "name": "300 g Schokotropfen" }
+      ],
+      "tags": [
+        { "name": "Süß" },
+        { "name": "Gebäck" }
+      ]
+    },
+    
+    {
+      "title": "Bananenbrot",
+      "recipeDescription": "Ofen auf 180 Grad Ober-/Unterhitze (Umluft: 160 Grad) vorheizen. Kastenform (Innenmaße 23 x 10 cm) gut einfetten. Bananen mit einer Gabel in einer Schüssel zerdrücken. Vanilleschote mit einem Messer der Länge nach einritzen und mit dem Messerrücken auskratzen. Öl mit braunem Zucker und Eier verquirlen. Mehl, Backpulver, Salz, Zimt und Vanilleschote vermischen und mit der Öl-Eiermasse verrühren. Bananen-Püree einrühren. Teig in die Form geben und im vorgeheizten Ofen etwa 55 Minuten backen. Das Bananenbrot nach dem Backen vollständig auskühlen lassen, erst dann aus der Form nehmen. Das Bananenbrot ergibt ca. 10 Stücke.",
+      "imageName": "bananenbrot.jpg",
+      "ingredients": [
+        { "name": "3 reife Bananen" },
+        { "name": "80 ml neutrales Öl (z.B. Sonnenblumenöl)" },
+        { "name": "110 g brauner Zucker" },
+        { "name": "2 Eier (Gr. M)" },
+        { "name": "200 g Weizenmehl (Type 405)" },
+        { "name": "3 TL Backpulver" },
+        { "name": "1 Prise Salz" },
+        { "name": "1 Vanilleschote" },
+        { "name": "1 Prise Zimt" },
+        { "name": "etwas Butter für die Form" }
+      ],
+      "tags": [
+        { "name": "Süß" },
+        { "name": "Gebäck" }
+      ]
+    },
+    
+    {
+      "title": "Kürbisbrot",
+      "recipeDescription": "",
+      "imageName": "kuerbisbrot.jpg",
+      "ingredients": [],
+      "tags": [
+          { "name": "Ausprobieren" }
+      ]
+    },
+    
+    {
+      "title": "Scissor Cut Noodles",
+      "recipeDescription": "",
+      "imageName": "scissor.jpg",
+      "ingredients": [],
+      "tags": [
+          { "name": "Ausprobieren" }
+      ]
+    },
+    
+    {
+      "title": "Kürbis-Ricotta Gnocci",
+      "recipeDescription": "",
+      "imageName": "kuerbis_gnocci.jpg",
+      "ingredients": [],
+      "tags": [
+          { "name": "Ausprobieren" }
+      ]
+    },
+    
+    {
+      "title": "Knack & Back Naan",
+      "recipeDescription": "",
+      "imageName": "knackundbacknaan.jpg",
+      "ingredients": [],
+      "tags": [
+          { "name": "Ausprobieren" }
+      ]
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
